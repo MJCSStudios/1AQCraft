@@ -1,0 +1,39 @@
+#This is a simple dump of all molten liquids, in raw form, with their block names (in brackets) and their localized names, in the format of:
+
+#FLUIDID 										  (FLUIDBLOCK)																	   = FLUIDLOCALIZEDNAME
+
+#ANY AND ALL CHANGES TO THIS FILE WILL BE REPLACED WHEN THIS FILE IS REGENERATED NEXT TIME THE GAME IS RUN. THIS IS FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A CONFIG FILE!
+
+obsidian                                          (tconstruct:molten_obsidian)                                                     = Molten Obsidian
+iron                                              (tconstruct:molten_iron)                                                         = Molten Iron
+pigiron                                           (tconstruct:molten_pigiron)                                                      = Molten Pigiron
+knightslime                                       (tconstruct:molten_knightslime)                                                  = Molten Knightslime
+cobalt                                            (tconstruct:molten_cobalt)                                                       = Molten Cobalt
+ardite                                            (tconstruct:molten_ardite)                                                       = Molten Ardite
+manyullyn                                         (tconstruct:molten_manyullyn)                                                    = Molten Manyullyn
+copper                                            (tconstruct:molten_copper)                                                       = Molten Copper
+bronze                                            (tconstruct:molten_bronze)                                                       = Molten Bronze
+lead                                              (tconstruct:molten_lead)                                                         = Molten Lead
+silver                                            (tconstruct:molten_silver)                                                       = Molten Silver
+electrum                                          (tconstruct:molten_electrum)                                                     = Molten Electrum
+steel                                             (tconstruct:molten_steel)                                                        = Molten Steel
+constantan                                        (immersiveengineering:molten_constantan)                                         = Molten Constantan
+boron                                             (nuclearcraft:fluid_boron)                                                       = Molten Boron
+tough                                             (nuclearcraft:fluid_tough)                                                       = Molten Tough Alloy
+hard_carbon                                       (nuclearcraft:fluid_hard_carbon)                                                 = Molten Hard Carbon
+thorium                                           (tconstruct:molten_thorium)                                                      = Molten Thorium
+uranium                                           (immersiveengineering:molten_uranium)                                            = Molten Uranium
+magnesium                                         (tconstruct:molten_magnesium)                                                    = Molten Magnesium
+milk_chocolate                                    (nuclearcraft:fluid_milk_chocolate)                                              = Molten Milk Chocolate
+molten_reinforced_pink_slime                      ([no block])                                                                     = Molten Reinforced Pink Slime
+enderium                                          (tconstruct:molten_enderium)                                                     = Molten Enderium
+titanium                                          (plustic:plustic.molten_titanium)                                                = Molten Titanium
+thaumium                                          (plustic:plustic.molten_thaumium)                                                = Molten Thaumium
+invar                                             (tconstruct:molten_invar)                                                        = Molten Invar
+lumium                                            (tconstruct:molten_lumium)                                                       = Molten Lumium
+platinum                                          (tconstruct:molten_platinum)                                                     = Molten Platinum
+alumite                                           (plustic:plustic.molten_alumite)                                                 = Molten Alumite
+iridium                                           (tconstruct:molten_iridium)                                                      = Molten Iridium
+nickel                                            (tconstruct:molten_nickel)                                                       = Molten Nickel
+signalum                                          (tconstruct:molten_signalum)                                                     = Molten Signalum
+emerald                                           (tconstruct:molten_emerald)                                                      = Molten Emerald

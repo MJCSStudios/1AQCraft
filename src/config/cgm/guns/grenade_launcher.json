@@ -1,0 +1,15 @@
+{
+  "General": {
+    "Max Ammo": 1,
+    "Reload Speed": 1
+  },
+  "Projectile": {
+    "Damage": 30.0,
+    "Damage Falloff": false,
+    "Gravity": true,
+    "Ticks Before Removed": 50,
+    "Reduce Damage If Not Zoomed": false,
+    "Size": 0.2,
+    "Speed": 1.0
+  }
+}

@@ -28,7 +28,6 @@ milk_chocolate                                    (nuclearcraft:fluid_milk_choco
 molten_reinforced_pink_slime                      ([no block])                                                                     = Molten Reinforced Pink Slime
 enderium                                          (tconstruct:molten_enderium)                                                     = Molten Enderium
 titanium                                          (plustic:plustic.molten_titanium)                                                = Molten Titanium
-thaumium                                          (plustic:plustic.molten_thaumium)                                                = Molten Thaumium
 invar                                             (tconstruct:molten_invar)                                                        = Molten Invar
 lumium                                            (tconstruct:molten_lumium)                                                       = Molten Lumium
 platinum                                          (tconstruct:molten_platinum)                                                     = Molten Platinum

@@ -455,8 +455,10 @@ magnesium_nak_hot                                 ([no block])                  
 molten_reinforced_pink_slime                      ([no block])                                                                     = Molten Reinforced Pink Slime
 alumite                                           (plustic:plustic.molten_alumite)                                                 = Molten Alumite
 titanium                                          (plustic:plustic.molten_titanium)                                                = Molten Titanium
-thaumium                                          (plustic:plustic.molten_thaumium)                                                = Molten Thaumium
 xpjuice                                           ([no block])                                                                     = Liquid XP
+fuelium                                           (vehicle:fuelium)                                                                = Fuelium
+ender_sap                                         (vehicle:ender_sap)                                                              = Ender Sap
+blaze_juice                                       (vehicle:blaze_juice)                                                            = Blaze Juice
 sulfurousacid                                     (zettaindustries:sulfurousacid)                                                  = Sulfurous Acid
 rocketfuel                                        (advancedrocketry:rocketfuel)                                                    = Rocket Fuel
 enrichedlava                                      (advancedrocketry:enrichedlavafluid)                                             = Enriched Lava
@@ -470,9 +472,6 @@ purpleslime                                       (tconstruct:purpleslime)      
 yellorium                                         (bigreactors:yellorium)                                                          = Fluid Yellorium
 cyanite                                           (bigreactors:cyanite)                                                            = Fluid Cyanite
 fuelcolumn                                        ([no block])                                                                     = fluid.fuelcolumn
-flux_goo                                          (thaumcraft:flux_goo)                                                            = Flux Goo
-liquid_death                                      (thaumcraft:liquid_death)                                                        = Liquid Death
-purifying_fluid                                   (thaumcraft:purifying_fluid)                                                     = Purifying Fluid
 hot_crude                                         ([no block])                                                                     = Hot Crude
 lpg                                               ([no block])                                                                     = Liquid Petroleum Gas
 light_oil                                         ([no block])                                                                     = Light Oil

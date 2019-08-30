@@ -249,7 +249,7 @@ minecraft:log2:1, Dark Oak Wood
 minecraft:acacia_stairs, Acacia Wood Stairs
 minecraft:dark_oak_stairs, Dark Oak Wood Stairs
 minecraft:slime, Slime Block
-minecraft:barrier, Warding Aura
+minecraft:barrier, Barrier
 minecraft:iron_trapdoor, Iron Trapdoor
 minecraft:prismarine:0, Prismarine
 minecraft:prismarine:1, Prismarine Bricks
@@ -4156,8 +4156,10 @@ extracells:pattern.fluid:0, ME Fluid Pattern: Hot Eutectic NaK-Magnesium Mixture
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Reinforced Pink Slime
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Alumite
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Titanium
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Thaumium
 extracells:pattern.fluid:0, ME Fluid Pattern: Liquid XP
+extracells:pattern.fluid:0, ME Fluid Pattern: Fuelium
+extracells:pattern.fluid:0, ME Fluid Pattern: Ender Sap
+extracells:pattern.fluid:0, ME Fluid Pattern: Blaze Juice
 extracells:pattern.fluid:0, ME Fluid Pattern: Sulfurous Acid
 extracells:pattern.fluid:0, ME Fluid Pattern: Rocket Fuel
 extracells:pattern.fluid:0, ME Fluid Pattern: Enriched Lava
@@ -4171,9 +4173,6 @@ extracells:pattern.fluid:0, ME Fluid Pattern: Liquid Purple Slime
 extracells:pattern.fluid:0, ME Fluid Pattern: Fluid Yellorium
 extracells:pattern.fluid:0, ME Fluid Pattern: Fluid Cyanite
 extracells:pattern.fluid:0, ME Fluid Pattern: fluid.fuelcolumn
-extracells:pattern.fluid:0, ME Fluid Pattern: Flux Goo
-extracells:pattern.fluid:0, ME Fluid Pattern: Liquid Death
-extracells:pattern.fluid:0, ME Fluid Pattern: Purifying Fluid
 extracells:pattern.fluid:0, ME Fluid Pattern: Hot Crude
 extracells:pattern.fluid:0, ME Fluid Pattern: Liquid Petroleum Gas
 extracells:pattern.fluid:0, ME Fluid Pattern: Light Oil
@@ -7264,7 +7263,6 @@ plustic:invarnugget, Invar Nugget
 plustic:invaringot, Invar Ingot
 plustic:invarblock, Invar Block
 plustic:plustic.molten_titanium, Molten Titanium
-plustic:plustic.molten_thaumium, Molten Thaumium
 netherfoundation:hellfish, Netherrack Monster Egg
 netherfoundation:ore:0, Nether Gold Ore
 netherfoundation:ore:1, Nether Iron Ore
@@ -7610,10 +7608,6 @@ solarflux:solar_panel_5, Solar Panel V
 solarflux:solar_panel_6, Solar Panel VI
 solarflux:solar_panel_7, Solar Panel VII
 solarflux:solar_panel_8, Solar Panel VIII
-solarflux:solar_panel_alchemical, Alchemical Solar Panel
-solarflux:solar_panel_alchemical_brass, Brass Solar Panel
-solarflux:solar_panel_thaumium, Thaumium Solar Panel
-solarflux:solar_panel_void_metal, Void Metal Solar Panel
 solarflux:mirror, Mirror
 solarflux:photovoltaic_cell_1, Photovoltaic Cell I
 solarflux:photovoltaic_cell_2, Photovoltaic Cell II
@@ -7833,7 +7827,7 @@ advancedrocketry:circlelight, Station Light
 advancedrocketry:solargenerator, Solar Generator
 advancedrocketry:stationmarker, Station Docking Port
 advancedrocketry:altitudecontroller, Altitude Controller
-advancedrocketry:railgun, Railgun
+advancedrocketry:railgun, Block Cannon
 advancedrocketry:astrobed, tile.astroBed.name
 advancedrocketry:planetholoselector, Holographic Planet Selector
 advancedrocketry:blocklens, Lens
@@ -10031,197 +10025,6 @@ chisel:wool_orange:0, Orange Wool
 chisel:wool_orange:1, Orange Wool
 chisel:wool_white:0, Wool
 chisel:wool_white:1, Wool
-thaumcraft:ore_amber, Amber Bearing Stone
-thaumcraft:ore_cinnabar, Cinnabar Ore
-thaumcraft:ore_quartz, Quartz Ore
-thaumcraft:crystal_aer, Air Crystal
-thaumcraft:crystal_ignis, Fire Crystal
-thaumcraft:crystal_aqua, Water Crystal
-thaumcraft:crystal_terra, Earth Crystal
-thaumcraft:crystal_ordo, Order Crystal
-thaumcraft:crystal_perditio, Entropy Crystal
-thaumcraft:crystal_vitium, Flux Crystal
-thaumcraft:stone_arcane, Arcane Stone
-thaumcraft:stone_arcane_brick, Arcane Stone Brick
-thaumcraft:stone_ancient, Ancient Stone
-thaumcraft:stone_ancient_tile, Ancient Stone Tile
-thaumcraft:stone_ancient_rock, Ancient Rock
-thaumcraft:stone_ancient_glyphed, Glyphed Stone
-thaumcraft:stone_ancient_doorway, Ancient Barrier
-thaumcraft:stone_eldritch_tile, Eldritch Stone
-thaumcraft:stone_porous, Porous Stone
-thaumcraft:stairs_arcane, Arcane Stone Stairs
-thaumcraft:stairs_arcane_brick, Arcane Brick Stairs
-thaumcraft:stairs_ancient, Ancient Stone Stairs
-thaumcraft:slab_arcane_stone:0, Arcane Stone Slab
-thaumcraft:slab_arcane_brick:0, Arcane Brick Slab
-thaumcraft:slab_ancient:0, Ancient Stone Slab
-thaumcraft:slab_eldritch:0, Eldritch Stone Slab
-thaumcraft:sapling_greatwood, Greatwood Sapling
-thaumcraft:sapling_silverwood, Silverwood Sapling
-thaumcraft:log_greatwood, Greatwood Log
-thaumcraft:log_silverwood, Silverwood Log
-thaumcraft:leaves_greatwood, Greatwood Leaves
-thaumcraft:leaves_silverwood, Silverwood Leaves
-thaumcraft:shimmerleaf, Shimmerleaf
-thaumcraft:cinderpearl, Cinderpearl
-thaumcraft:vishroom, Vishroom
-thaumcraft:plank_greatwood, Greatwood Planks
-thaumcraft:plank_silverwood, Silverwood Planks
-thaumcraft:stairs_greatwood, Greatwood Stairs
-thaumcraft:stairs_silverwood, Silverwood Stairs
-thaumcraft:slab_greatwood:0, Greatwood Slab
-thaumcraft:slab_silverwood:0, Silverwood Slab
-thaumcraft:amber_block, Amber Block
-thaumcraft:amber_brick, Amber Bricks
-thaumcraft:flesh_block, Block of Flesh
-thaumcraft:loot_crate_common, Common Crate
-thaumcraft:loot_crate_uncommon, Uncommon Crate
-thaumcraft:loot_crate_rare, Rare Crate
-thaumcraft:loot_urn_common, Common Urn
-thaumcraft:loot_urn_uncommon, Uncommon Urn
-thaumcraft:loot_urn_rare, Rare Urn
-thaumcraft:taint_fibre, Fibrous Taint
-thaumcraft:taint_crust, Crusted Taint
-thaumcraft:taint_soil, Tainted Soil
-thaumcraft:taint_rock, Tainted Rock
-thaumcraft:taint_geyser, Taint Geyser
-thaumcraft:taint_feature, Swollen Taint
-thaumcraft:taint_log, Taintwood Log
-thaumcraft:grass_ambient, Ambient Grass Block
-thaumcraft:table_wood, Wood Table
-thaumcraft:table_stone, Stone Table
-thaumcraft:pedestal_arcane, Arcane Pedestal
-thaumcraft:pedestal_ancient, Ancient Pedestal
-thaumcraft:pedestal_eldritch, Eldritch Pedestal
-thaumcraft:metal_brass, Brass Block
-thaumcraft:metal_thaumium, Thaumium Block
-thaumcraft:metal_void, Void Metal Block
-thaumcraft:metal_alchemical, Alchemical Construct
-thaumcraft:metal_alchemical_advanced, Advanced Alchemical Construct
-thaumcraft:paving_stone_travel, Paving Stone of Travel
-thaumcraft:paving_stone_barrier, Barrier Stone
-thaumcraft:pillar_arcane, Infusion Pillar
-thaumcraft:pillar_ancient, Ancient Infusion Pillar
-thaumcraft:pillar_eldritch, Eldritch Infusion Pillar
-thaumcraft:matrix_speed, Infusion Speed Stone
-thaumcraft:matrix_cost, Infusion Cost Stone
-thaumcraft:candle_white, White Tallow Candle
-thaumcraft:candle_orange, Orange Tallow Candle
-thaumcraft:candle_magenta, Magenta Tallow Candle
-thaumcraft:candle_lightblue, Light Blue Tallow Candle
-thaumcraft:candle_yellow, Yellow Tallow Candle
-thaumcraft:candle_lime, Lime Tallow Candle
-thaumcraft:candle_pink, Pink Tallow Candle
-thaumcraft:candle_gray, Gray Tallow Candle
-thaumcraft:candle_silver, Light Gray Tallow Candle
-thaumcraft:candle_cyan, Cyan Tallow Candle
-thaumcraft:candle_purple, Purple Tallow Candle
-thaumcraft:candle_blue, Blue Tallow Candle
-thaumcraft:candle_brown, Brown Tallow Candle
-thaumcraft:candle_green, Green Tallow Candle
-thaumcraft:candle_red, Red Tallow Candle
-thaumcraft:candle_black, Black Tallow Candle
-thaumcraft:banner_white, White Banner
-thaumcraft:banner_orange, Orange Banner
-thaumcraft:banner_magenta, Magenta Banner
-thaumcraft:banner_lightblue, Light Blue Banner
-thaumcraft:banner_yellow, Yellow Banner
-thaumcraft:banner_lime, Lime Banner
-thaumcraft:banner_pink, Pink Banner
-thaumcraft:banner_gray, Gray Banner
-thaumcraft:banner_silver, Light Gray Banner
-thaumcraft:banner_cyan, Cyan Banner
-thaumcraft:banner_purple, Purple Banner
-thaumcraft:banner_blue, Blue Banner
-thaumcraft:banner_brown, Brown Banner
-thaumcraft:banner_green, Green Banner
-thaumcraft:banner_red, Red Banner
-thaumcraft:banner_black, Black Banner
-thaumcraft:banner_crimson_cult, Crimson Cult Banner
-thaumcraft:nitor_white, White Nitor
-thaumcraft:nitor_orange, Orange Nitor
-thaumcraft:nitor_magenta, Magenta Nitor
-thaumcraft:nitor_lightblue, Light Blue Nitor
-thaumcraft:nitor_yellow, Yellow Nitor
-thaumcraft:nitor_lime, Lime Nitor
-thaumcraft:nitor_pink, Pink Nitor
-thaumcraft:nitor_gray, Gray Nitor
-thaumcraft:nitor_silver, Light Gray Nitor
-thaumcraft:nitor_cyan, Cyan Nitor
-thaumcraft:nitor_purple, Purple Nitor
-thaumcraft:nitor_blue, Blue Nitor
-thaumcraft:nitor_brown, Brown Nitor
-thaumcraft:nitor_green, Green Nitor
-thaumcraft:nitor_red, Red Nitor
-thaumcraft:nitor_black, Black Nitor
-thaumcraft:vis_battery, Vis Battery
-thaumcraft:inlay, Redstone Inlay
-thaumcraft:arcane_workbench, Arcane Workbench
-thaumcraft:arcane_workbench_charger, Workbench Charger
-thaumcraft:dioptra, Thaumic Dioptra
-thaumcraft:research_table, Research Table
-thaumcraft:crucible, Crucible
-thaumcraft:arcane_ear, Arcane Ear
-thaumcraft:arcane_ear_toggle, Arcane Ear (Toggle)
-thaumcraft:lamp_arcane, Arcane Lamp
-thaumcraft:lamp_fertility, Lamp of Fertility
-thaumcraft:lamp_growth, Lamp of Growth  
-thaumcraft:levitator, Arcane Levitator
-thaumcraft:centrifuge, Centrifuge
-thaumcraft:bellows, Arcane Bellows
-thaumcraft:smelter_basic, Essentia Smeltery
-thaumcraft:smelter_thaumium, Thaumium Essentia Smeltery
-thaumcraft:smelter_void, Void Metal Essentia Smeltery
-thaumcraft:smelter_aux, Auxiliary Slurry Pump
-thaumcraft:smelter_vent, Auxiliary Venting Port
-thaumcraft:alembic, Arcane Alembic
-thaumcraft:recharge_pedestal, Recharge Pedestal
-thaumcraft:wand_workbench, Focal Manipulator
-thaumcraft:hungry_chest, Hungry Chest
-thaumcraft:tube, Essentia Tube
-thaumcraft:tube_valve, Essentia Valve
-thaumcraft:tube_restrict, Restricted Essentia Tube
-thaumcraft:tube_oneway, Directional Essentia Tube
-thaumcraft:tube_filter, Filtered Essentia Tube
-thaumcraft:tube_buffer, Essentia Buffer
-thaumcraft:jar_normal, Warded Jar
-thaumcraft:jar_void, Void Jar
-thaumcraft:jar_brain, Brain in a Jar
-thaumcraft:infusion_matrix, Runic Matrix
-thaumcraft:infernal_furnace, Infernal Furnace
-thaumcraft:everfull_urn, Everfull Urn
-thaumcraft:thaumatorium, Thaumatorium
-thaumcraft:thaumatorium_top, Thaumatorium
-thaumcraft:brain_box, Mnemonic Matrix
-thaumcraft:spa, Arcane Spa
-thaumcraft:golem_builder, Golem Press
-thaumcraft:mirror, Mirror
-thaumcraft:mirror_essentia, Essentia Mirror
-thaumcraft:essentia_input, Filling Essentia Transfuser
-thaumcraft:essentia_output, Emptying Essentia Transfuser
-thaumcraft:redstone_relay, Redstone Relay
-thaumcraft:pattern_crafter, Arcane Pattern Crafter
-thaumcraft:potion_sprayer, Potion Sprayer
-thaumcraft:activator_rail, Arcane Activator Rail
-thaumcraft:stabilizer, Stabilizer
-thaumcraft:vis_generator, Vis Generator
-thaumcraft:condenser, Flux Condenser
-thaumcraft:condenser_lattice, Flux Condenser Lattice
-thaumcraft:condenser_lattice_dirty, Clogged Flux Condenser Lattice
-thaumcraft:void_siphon, Void Siphon
-thaumcraft:hole, Dimensional Tear
-thaumcraft:effect_shock, Static Field
-thaumcraft:effect_sap, Sapping Field
-thaumcraft:effect_glimmer, Glimmer
-thaumcraft:placeholder_brick, Infernal Furnace
-thaumcraft:placeholder_obsidian, Infernal Furnace
-thaumcraft:placeholder_bars, Golem Press
-thaumcraft:placeholder_anvil, Golem Press
-thaumcraft:placeholder_cauldron, Golem Press
-thaumcraft:placeholder_table, Golem Press
-thaumcraft:empty, Empty Space
-thaumcraft:barrier, Warding Aura
 libvulpes:linker, Linker
 libvulpes:battery:0, Small Battery
 libvulpes:battery:1, 2x Small Battery
@@ -12976,33 +12779,6 @@ appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
 appliedenergistics2:facade:0, Cable Facade - Kitchen Floor
-appliedenergistics2:facade:0, Cable Facade - Pearl Block
-appliedenergistics2:facade:0, Cable Facade - Pearl Brick
-appliedenergistics2:facade:0, Cable Facade - Carved Pearl Block
-appliedenergistics2:facade:0, Cable Facade - Chiseled Pearl Block
-appliedenergistics2:facade:0, Cable Facade - TNT
-appliedenergistics2:facade:0, Cable Facade - White Slime Block
-appliedenergistics2:facade:0, Cable Facade - Orange Slime Block
-appliedenergistics2:facade:0, Cable Facade - Magenta Slime Block
-appliedenergistics2:facade:0, Cable Facade - Light Blue Slime Block
-appliedenergistics2:facade:0, Cable Facade - Yellow Slime Block
-appliedenergistics2:facade:0, Cable Facade - Lime Slime Block
-appliedenergistics2:facade:0, Cable Facade - Pink Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gray Slime Block
-appliedenergistics2:facade:0, Cable Facade - Light Gray Slime Block
-appliedenergistics2:facade:0, Cable Facade - Cyan Slime Block
-appliedenergistics2:facade:0, Cable Facade - Purple Slime Block
-appliedenergistics2:facade:0, Cable Facade - Blue Slime Block
-appliedenergistics2:facade:0, Cable Facade - Brown Slime Block
-appliedenergistics2:facade:0, Cable Facade - Green Slime Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Black Slime Block
-appliedenergistics2:facade:0, Cable Facade - Wither Dust Block
-appliedenergistics2:facade:0, Cable Facade - Wither Dust Bricks
-appliedenergistics2:facade:0, Cable Facade - Carved Wither Dust Block
-appliedenergistics2:facade:0, Cable Facade - Chiseled Wither Dust Block
-appliedenergistics2:facade:0, Cable Facade - Corrupted Wither Dust Block
-appliedenergistics2:facade:0, Cable Facade - Checkered Wither Dust Block
 appliedenergistics2:facade:0, Cable Facade - Yellorite Ore
 appliedenergistics2:facade:0, Cable Facade - Anglesite Ore
 appliedenergistics2:facade:0, Cable Facade - Benitoite Ore
@@ -13028,42 +12804,6 @@ appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
-appliedenergistics2:facade:0, Cable Facade - Amber Bearing Stone
-appliedenergistics2:facade:0, Cable Facade - Cinnabar Ore
-appliedenergistics2:facade:0, Cable Facade - Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Arcane Stone
-appliedenergistics2:facade:0, Cable Facade - Arcane Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Ancient Stone
-appliedenergistics2:facade:0, Cable Facade - Ancient Stone Tile
-appliedenergistics2:facade:0, Cable Facade - Ancient Rock
-appliedenergistics2:facade:0, Cable Facade - Glyphed Stone
-appliedenergistics2:facade:0, Cable Facade - Ancient Barrier
-appliedenergistics2:facade:0, Cable Facade - Eldritch Stone
-appliedenergistics2:facade:0, Cable Facade - Porous Stone
-appliedenergistics2:facade:0, Cable Facade - Greatwood Log
-appliedenergistics2:facade:0, Cable Facade - Silverwood Log
-appliedenergistics2:facade:0, Cable Facade - Greatwood Leaves
-appliedenergistics2:facade:0, Cable Facade - Silverwood Leaves
-appliedenergistics2:facade:0, Cable Facade - Greatwood Planks
-appliedenergistics2:facade:0, Cable Facade - Silverwood Planks
-appliedenergistics2:facade:0, Cable Facade - Amber Block
-appliedenergistics2:facade:0, Cable Facade - Amber Bricks
-appliedenergistics2:facade:0, Cable Facade - Block of Flesh
-appliedenergistics2:facade:0, Cable Facade - Crusted Taint
-appliedenergistics2:facade:0, Cable Facade - Tainted Soil
-appliedenergistics2:facade:0, Cable Facade - Tainted Rock
-appliedenergistics2:facade:0, Cable Facade - Taint Geyser
-appliedenergistics2:facade:0, Cable Facade - Taintwood Log
-appliedenergistics2:facade:0, Cable Facade - Ambient Grass Block
-appliedenergistics2:facade:0, Cable Facade - Brass Block
-appliedenergistics2:facade:0, Cable Facade - Thaumium Block
-appliedenergistics2:facade:0, Cable Facade - Void Metal Block
-appliedenergistics2:facade:0, Cable Facade - Alchemical Construct
-appliedenergistics2:facade:0, Cable Facade - Advanced Alchemical Construct
-appliedenergistics2:facade:0, Cable Facade - Infusion Speed Stone
-appliedenergistics2:facade:0, Cable Facade - Infusion Cost Stone
-appliedenergistics2:facade:0, Cable Facade - Vis Battery
-appliedenergistics2:facade:0, Cable Facade - Empty Space
 appliedenergistics2:facade:0, Cable Facade - Copper Ore
 appliedenergistics2:facade:0, Cable Facade - Bauxite Ore
 appliedenergistics2:facade:0, Cable Facade - Lead Ore
@@ -13256,25 +12996,12 @@ appliedenergistics2:facade:0, Cable Facade - tile.extra_trim.name
 appliedenergistics2:facade:0, Cable Facade - tile.extra_trim.name
 appliedenergistics2:facade:0, Cable Facade - tile.extra_trim.name
 appliedenergistics2:facade:0, Cable Facade - tile.extra_trim.name
-appliedenergistics2:facade:0, Cable Facade - Araucaria Leaves
-appliedenergistics2:facade:0, Cable Facade - Phoenix Slab
-appliedenergistics2:facade:0, Cable Facade - Petrified Psaronius Log
-appliedenergistics2:facade:0, Cable Facade - Psaronius Leaves
-appliedenergistics2:facade:0, Cable Facade - Phoenix Log
-appliedenergistics2:facade:0, Cable Facade - Araucaria Log
+appliedenergistics2:facade:0, Cable Facade - Ginkgo Planks
 appliedenergistics2:facade:0, Cable Facade - Fern Prehistoric Plant Bale
-appliedenergistics2:facade:0, Cable Facade - Araucaria Planks
-appliedenergistics2:facade:0, Cable Facade - Petrified Calamites Log
-appliedenergistics2:facade:0, Cable Facade - Leaves Prehistoric Plant Bale
+appliedenergistics2:facade:0, Cable Facade - Plant Fossil
+appliedenergistics2:facade:0, Cable Facade - Psaronius Leaves
+appliedenergistics2:facade:0, Cable Facade - Reinforced Stone
 appliedenergistics2:facade:0, Cable Facade - Calamites Slab
-appliedenergistics2:facade:0, Cable Facade - Encased Fossilized Nest
-appliedenergistics2:facade:0, Cable Facade - Encased Fossilized Nest
-appliedenergistics2:facade:0, Cable Facade - Encased Fossilized Nest
-appliedenergistics2:facade:0, Cable Facade - Bennettitalean Prehistoric Plant Bale
-appliedenergistics2:facade:0, Cable Facade - Gypsum Stone
-appliedenergistics2:facade:0, Cable Facade - Reinforced Bricks
-appliedenergistics2:facade:0, Cable Facade - Araucaria Slab
-appliedenergistics2:facade:0, Cable Facade - Amber Ore
 appliedenergistics2:facade:0, Cable Facade - Encased Velociraptor Fossil
 appliedenergistics2:facade:0, Cable Facade - Encased Coelacanth Fossil
 appliedenergistics2:facade:0, Cable Facade - Encased Microraptor Fossil
@@ -13283,17 +13010,50 @@ appliedenergistics2:facade:0, Cable Facade - Encased Mussaurus Fossil
 appliedenergistics2:facade:0, Cable Facade - Encased Dilophosaurus Fossil
 appliedenergistics2:facade:0, Cable Facade - Encased Gallimimus Fossil
 appliedenergistics2:facade:0, Cable Facade - Encased Parasaurolophus Fossil
-appliedenergistics2:facade:0, Cable Facade - tile.krill_swarm.name
-appliedenergistics2:facade:0, Cable Facade - Psaronius Log
+appliedenergistics2:facade:0, Cable Facade - Prehistoric Plant Bale
+appliedenergistics2:facade:0, Cable Facade - Reinforced Bricks
+appliedenergistics2:facade:0, Cable Facade - Ice Shard Ore
+appliedenergistics2:facade:0, Cable Facade - Peat Moss
+appliedenergistics2:facade:0, Cable Facade - Phoenix Leaves
+appliedenergistics2:facade:0, Cable Facade - Encased Fossilized Nest
+appliedenergistics2:facade:0, Cable Facade - Encased Fossilized Nest
+appliedenergistics2:facade:0, Cable Facade - Encased Fossilized Nest
+appliedenergistics2:facade:0, Cable Facade - Psaronius Slab
+appliedenergistics2:facade:0, Cable Facade - Peat
+appliedenergistics2:facade:0, Cable Facade - Calamites Log
+appliedenergistics2:facade:0, Cable Facade - Araucaria Leaves
+appliedenergistics2:facade:0, Cable Facade - Cycad Prehistoric Plant Bale
+appliedenergistics2:facade:0, Cable Facade - Araucaria Planks
+appliedenergistics2:facade:0, Cable Facade - Gypsum Stone
+appliedenergistics2:facade:0, Cable Facade - Calamites Planks
+appliedenergistics2:facade:0, Cable Facade - Ginkgo Slab
+appliedenergistics2:facade:0, Cable Facade - Ginkgo Leaves
 appliedenergistics2:facade:0, Cable Facade - Gypsum Bricks
+appliedenergistics2:facade:0, Cable Facade - Gypsum Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Fossilized Nest
+appliedenergistics2:facade:0, Cable Facade - Fossilized Nest
+appliedenergistics2:facade:0, Cable Facade - Fossilized Nest
 appliedenergistics2:facade:0, Cable Facade - Encased Triceratops Fossil
 appliedenergistics2:facade:0, Cable Facade - Encased Tyrannosaurus Fossil
+appliedenergistics2:facade:0, Cable Facade - Psaronius Planks
+appliedenergistics2:facade:0, Cable Facade - Petrified Psaronius Log
+appliedenergistics2:facade:0, Cable Facade - Petrified Calamites Log
+appliedenergistics2:facade:0, Cable Facade - Araucaria Log
+appliedenergistics2:facade:0, Cable Facade - Petrified Ginkgo Log
+appliedenergistics2:facade:0, Cable Facade - Phoenix Planks
+appliedenergistics2:facade:0, Cable Facade - Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Araucaria Slab
+appliedenergistics2:facade:0, Cable Facade - Psaronius Log
+appliedenergistics2:facade:0, Cable Facade - tile.plankton_swarm.name
+appliedenergistics2:facade:0, Cable Facade - Ginkgo Log
+appliedenergistics2:facade:0, Cable Facade - tile.krill_swarm.name
+appliedenergistics2:facade:0, Cable Facade - Phoenix Slab
+appliedenergistics2:facade:0, Cable Facade - Triceratops Fossil
+appliedenergistics2:facade:0, Cable Facade - Tyrannosaurus Fossil
+appliedenergistics2:facade:0, Cable Facade - Leaves Prehistoric Plant Bale
 appliedenergistics2:facade:0, Cable Facade - Fossilized Biped Trackway
 appliedenergistics2:facade:0, Cable Facade - Fossilized Small Biped Trackway
 appliedenergistics2:facade:0, Cable Facade - Fossilized Raptor Trackway
-appliedenergistics2:facade:0, Cable Facade - Ginkgo Planks
-appliedenergistics2:facade:0, Cable Facade - Calamites Leaves
-appliedenergistics2:facade:0, Cable Facade - Calamites Planks
 appliedenergistics2:facade:0, Cable Facade - Velociraptor Fossil
 appliedenergistics2:facade:0, Cable Facade - Coelacanth Fossil
 appliedenergistics2:facade:0, Cable Facade - Microraptor Fossil
@@ -13302,31 +13062,11 @@ appliedenergistics2:facade:0, Cable Facade - Mussaurus Fossil
 appliedenergistics2:facade:0, Cable Facade - Dilophosaurus Fossil
 appliedenergistics2:facade:0, Cable Facade - Gallimimus Fossil
 appliedenergistics2:facade:0, Cable Facade - Parasaurolophus Fossil
-appliedenergistics2:facade:0, Cable Facade - Reinforced Stone
-appliedenergistics2:facade:0, Cable Facade - Ginkgo Log
-appliedenergistics2:facade:0, Cable Facade - Ginkgo Leaves
-appliedenergistics2:facade:0, Cable Facade - Phoenix Leaves
-appliedenergistics2:facade:0, Cable Facade - tile.plankton_swarm.name
-appliedenergistics2:facade:0, Cable Facade - Petrified Phoenix Log
-appliedenergistics2:facade:0, Cable Facade - Cycad Prehistoric Plant Bale
-appliedenergistics2:facade:0, Cable Facade - Peat
-appliedenergistics2:facade:0, Cable Facade - Psaronius Planks
 appliedenergistics2:facade:0, Cable Facade - Petrified Araucaria Log
-appliedenergistics2:facade:0, Cable Facade - Fossilized Nest
-appliedenergistics2:facade:0, Cable Facade - Fossilized Nest
-appliedenergistics2:facade:0, Cable Facade - Fossilized Nest
-appliedenergistics2:facade:0, Cable Facade - Phoenix Planks
-appliedenergistics2:facade:0, Cable Facade - Peat Moss
-appliedenergistics2:facade:0, Cable Facade - Petrified Ginkgo Log
-appliedenergistics2:facade:0, Cable Facade - Ice Shard Ore
-appliedenergistics2:facade:0, Cable Facade - Ginkgo Slab
-appliedenergistics2:facade:0, Cable Facade - Triceratops Fossil
-appliedenergistics2:facade:0, Cable Facade - Tyrannosaurus Fossil
-appliedenergistics2:facade:0, Cable Facade - Plant Fossil
-appliedenergistics2:facade:0, Cable Facade - Gypsum Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Psaronius Slab
-appliedenergistics2:facade:0, Cable Facade - Calamites Log
-appliedenergistics2:facade:0, Cable Facade - Prehistoric Plant Bale
+appliedenergistics2:facade:0, Cable Facade - Phoenix Log
+appliedenergistics2:facade:0, Cable Facade - Bennettitalean Prehistoric Plant Bale
+appliedenergistics2:facade:0, Cable Facade - Petrified Phoenix Log
+appliedenergistics2:facade:0, Cable Facade - Calamites Leaves
 appliedenergistics2:facade:0, Cable Facade - Restonia Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Palis Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Diamatine Crystal Block
@@ -13518,15 +13258,15 @@ appliedenergistics2:facade:0, Cable Facade - Honey Block
 appliedenergistics2:facade:0, Cable Facade - Honeycomb Block
 appliedenergistics2:facade:0, Cable Facade - Pressed Wax Block
 appliedenergistics2:facade:0, Cable Facade - Waxcomb Block
-appliedenergistics2:facade:0, Cable Facade - Chalcopyrite Ore (Copper)
-appliedenergistics2:facade:0, Cable Facade - Oil Source (Full)
-appliedenergistics2:facade:0, Cable Facade - Copper Block
 appliedenergistics2:facade:0, Cable Facade - Machine Block
 appliedenergistics2:facade:0, Cable Facade - Support Column (Y axis)
 appliedenergistics2:facade:0, Cable Facade - Pumpjack Pipe
 appliedenergistics2:facade:0, Cable Facade - Limestone
 appliedenergistics2:facade:0, Cable Facade - Burnt Limestone
 appliedenergistics2:facade:0, Cable Facade - Limestone Tiles
+appliedenergistics2:facade:0, Cable Facade - Chalcopyrite Ore (Copper)
+appliedenergistics2:facade:0, Cable Facade - Oil Source (Full)
+appliedenergistics2:facade:0, Cable Facade - Copper Block
 appliedenergistics2:facade:0, Cable Facade - Fossils
 appliedenergistics2:facade:0, Cable Facade - Sulfur Deposit
 appliedenergistics2:facade:0, Cable Facade - Saltpeter Deposit
@@ -13534,11 +13274,11 @@ appliedenergistics2:facade:0, Cable Facade - Gypsum Block
 appliedenergistics2:facade:0, Cable Facade - Encased fossil
 appliedenergistics2:facade:0, Cable Facade - Block of Sulfur
 appliedenergistics2:facade:0, Cable Facade - Block of Saltpeter
-appliedenergistics2:facade:0, Cable Facade - Quarry Fixer
 appliedenergistics2:facade:0, Cable Facade - Block of Sulfur
 appliedenergistics2:facade:0, Cable Facade - Block of Graphite
-appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
 appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
+appliedenergistics2:facade:0, Cable Facade - Quarry Fixer
 appliedenergistics2:facade:0, Cable Facade - Block of Zinc
 appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
 appliedenergistics2:facade:0, Cable Facade - Block of Charged Certus Quartz
@@ -13806,7 +13546,6 @@ appliedenergistics2:part:400, ME Storage Monitor
 appliedenergistics2:part:380, ME Terminal
 appliedenergistics2:part:80, ME Toggle Bus
 morphtool:tool, item.tool.name
-baubles:ring:0, Miner's Ring
 bibliocraft:bookcase:0, Oak Bookcase
 bibliocraft:bookcase:1, Spruce Bookcase
 bibliocraft:bookcase:2, Birch Bookcase
@@ -14285,44 +14024,44 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Laser Medium Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Battery Cell Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Pipe Piece Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -14370,7 +14109,6 @@ tconstruct:shard:0, Amethyst Shard
 tconstruct:shard:0, Enderium Shard
 tconstruct:shard:0, Titanium Shard
 tconstruct:shard:0, Kyronite Shard
-tconstruct:shard:0, Thaumium Shard
 tconstruct:shard:0, Tanzanite Shard
 tconstruct:shard:0, Invar Shard
 tconstruct:shard:0, Malachite Shard
@@ -14449,7 +14187,6 @@ tconstruct:sharpening_kit:0, Amethyst Sharpening Kit
 tconstruct:sharpening_kit:0, Enderium Sharpening Kit
 tconstruct:sharpening_kit:0, Titanium Sharpening Kit
 tconstruct:sharpening_kit:0, Kyronite Sharpening Kit
-tconstruct:sharpening_kit:0, Thaumium Sharpening Kit
 tconstruct:sharpening_kit:0, Tanzanite Sharpening Kit
 tconstruct:sharpening_kit:0, Invar Sharpening Kit
 tconstruct:sharpening_kit:0, Malachite Sharpening Kit
@@ -14528,7 +14265,6 @@ tconstruct:pick_head:0, Amethyst Pickaxe Head
 tconstruct:pick_head:0, Enderium Pickaxe Head
 tconstruct:pick_head:0, Titanium Pickaxe Head
 tconstruct:pick_head:0, Kyronite Pickaxe Head
-tconstruct:pick_head:0, Thaumium Pickaxe Head
 tconstruct:pick_head:0, Tanzanite Pickaxe Head
 tconstruct:pick_head:0, Invar Pickaxe Head
 tconstruct:pick_head:0, Malachite Pickaxe Head
@@ -14607,7 +14343,6 @@ tconstruct:shovel_head:0, Amethyst Shovel Head
 tconstruct:shovel_head:0, Enderium Shovel Head
 tconstruct:shovel_head:0, Titanium Shovel Head
 tconstruct:shovel_head:0, Kyronite Shovel Head
-tconstruct:shovel_head:0, Thaumium Shovel Head
 tconstruct:shovel_head:0, Tanzanite Shovel Head
 tconstruct:shovel_head:0, Invar Shovel Head
 tconstruct:shovel_head:0, Malachite Shovel Head
@@ -14686,7 +14421,6 @@ tconstruct:axe_head:0, Amethyst Axe Head
 tconstruct:axe_head:0, Enderium Axe Head
 tconstruct:axe_head:0, Titanium Axe Head
 tconstruct:axe_head:0, Kyronite Axe Head
-tconstruct:axe_head:0, Thaumium Axe Head
 tconstruct:axe_head:0, Tanzanite Axe Head
 tconstruct:axe_head:0, Invar Axe Head
 tconstruct:axe_head:0, Malachite Axe Head
@@ -14765,7 +14499,6 @@ tconstruct:broad_axe_head:0, Amethyst Broad Axe Head
 tconstruct:broad_axe_head:0, Enderium Broad Axe Head
 tconstruct:broad_axe_head:0, Titanium Broad Axe Head
 tconstruct:broad_axe_head:0, Kyronite Broad Axe Head
-tconstruct:broad_axe_head:0, Thaumium Broad Axe Head
 tconstruct:broad_axe_head:0, Tanzanite Broad Axe Head
 tconstruct:broad_axe_head:0, Invar Broad Axe Head
 tconstruct:broad_axe_head:0, Malachite Broad Axe Head
@@ -14844,7 +14577,6 @@ tconstruct:sword_blade:0, Amethyst Sword Blade
 tconstruct:sword_blade:0, Enderium Sword Blade
 tconstruct:sword_blade:0, Titanium Sword Blade
 tconstruct:sword_blade:0, Kyronite Sword Blade
-tconstruct:sword_blade:0, Thaumium Sword Blade
 tconstruct:sword_blade:0, Tanzanite Sword Blade
 tconstruct:sword_blade:0, Invar Sword Blade
 tconstruct:sword_blade:0, Malachite Sword Blade
@@ -14923,7 +14655,6 @@ tconstruct:large_sword_blade:0, Amethyst Large Sword Blade
 tconstruct:large_sword_blade:0, Enderium Large Sword Blade
 tconstruct:large_sword_blade:0, Titanium Large Sword Blade
 tconstruct:large_sword_blade:0, Kyronite Large Sword Blade
-tconstruct:large_sword_blade:0, Thaumium Large Sword Blade
 tconstruct:large_sword_blade:0, Tanzanite Large Sword Blade
 tconstruct:large_sword_blade:0, Invar Large Sword Blade
 tconstruct:large_sword_blade:0, Malachite Large Sword Blade
@@ -15002,7 +14733,6 @@ tconstruct:hammer_head:0, Amethyst Hammer Head
 tconstruct:hammer_head:0, Enderium Hammer Head
 tconstruct:hammer_head:0, Titanium Hammer Head
 tconstruct:hammer_head:0, Kyronite Hammer Head
-tconstruct:hammer_head:0, Thaumium Hammer Head
 tconstruct:hammer_head:0, Tanzanite Hammer Head
 tconstruct:hammer_head:0, Invar Hammer Head
 tconstruct:hammer_head:0, Malachite Hammer Head
@@ -15081,7 +14811,6 @@ tconstruct:excavator_head:0, Amethyst Excavator Head
 tconstruct:excavator_head:0, Enderium Excavator Head
 tconstruct:excavator_head:0, Titanium Excavator Head
 tconstruct:excavator_head:0, Kyronite Excavator Head
-tconstruct:excavator_head:0, Thaumium Excavator Head
 tconstruct:excavator_head:0, Tanzanite Excavator Head
 tconstruct:excavator_head:0, Invar Excavator Head
 tconstruct:excavator_head:0, Malachite Excavator Head
@@ -15160,7 +14889,6 @@ tconstruct:kama_head:0, Amethyst Kama Head
 tconstruct:kama_head:0, Enderium Kama Head
 tconstruct:kama_head:0, Titanium Kama Head
 tconstruct:kama_head:0, Kyronite Kama Head
-tconstruct:kama_head:0, Thaumium Kama Head
 tconstruct:kama_head:0, Tanzanite Kama Head
 tconstruct:kama_head:0, Invar Kama Head
 tconstruct:kama_head:0, Malachite Kama Head
@@ -15239,7 +14967,6 @@ tconstruct:scythe_head:0, Amethyst Scythe Head
 tconstruct:scythe_head:0, Enderium Scythe Head
 tconstruct:scythe_head:0, Titanium Scythe Head
 tconstruct:scythe_head:0, Kyronite Scythe Head
-tconstruct:scythe_head:0, Thaumium Scythe Head
 tconstruct:scythe_head:0, Tanzanite Scythe Head
 tconstruct:scythe_head:0, Invar Scythe Head
 tconstruct:scythe_head:0, Malachite Scythe Head
@@ -15318,7 +15045,6 @@ tconstruct:pan_head:0, Amethyst Pan
 tconstruct:pan_head:0, Enderium Pan
 tconstruct:pan_head:0, Titanium Pan
 tconstruct:pan_head:0, Kyronite Pan
-tconstruct:pan_head:0, Thaumium Pan
 tconstruct:pan_head:0, Tanzanite Pan
 tconstruct:pan_head:0, Invar Pan
 tconstruct:pan_head:0, Malachite Pan
@@ -15397,7 +15123,6 @@ tconstruct:sign_head:0, Amethyst Sign Plate
 tconstruct:sign_head:0, Enderium Sign Plate
 tconstruct:sign_head:0, Titanium Sign Plate
 tconstruct:sign_head:0, Kyronite Sign Plate
-tconstruct:sign_head:0, Thaumium Sign Plate
 tconstruct:sign_head:0, Tanzanite Sign Plate
 tconstruct:sign_head:0, Invar Sign Plate
 tconstruct:sign_head:0, Malachite Sign Plate
@@ -15476,7 +15201,6 @@ tconstruct:tool_rod:0, Amethyst Tool Rod
 tconstruct:tool_rod:0, Enderium Tool Rod
 tconstruct:tool_rod:0, Titanium Tool Rod
 tconstruct:tool_rod:0, Kyronite Tool Rod
-tconstruct:tool_rod:0, Thaumium Tool Rod
 tconstruct:tool_rod:0, Tanzanite Tool Rod
 tconstruct:tool_rod:0, Invar Tool Rod
 tconstruct:tool_rod:0, Malachite Tool Rod
@@ -15555,7 +15279,6 @@ tconstruct:tough_tool_rod:0, Amethyst Tough Tool Rod
 tconstruct:tough_tool_rod:0, Enderium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Titanium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Kyronite Tough Tool Rod
-tconstruct:tough_tool_rod:0, Thaumium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Tanzanite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Invar Tough Tool Rod
 tconstruct:tough_tool_rod:0, Malachite Tough Tool Rod
@@ -15634,7 +15357,6 @@ tconstruct:binding:0, Amethyst Binding
 tconstruct:binding:0, Enderium Binding
 tconstruct:binding:0, Titanium Binding
 tconstruct:binding:0, Kyronite Binding
-tconstruct:binding:0, Thaumium Binding
 tconstruct:binding:0, Tanzanite Binding
 tconstruct:binding:0, Invar Binding
 tconstruct:binding:0, Malachite Binding
@@ -15713,7 +15435,6 @@ tconstruct:tough_binding:0, Amethyst Tough Binding
 tconstruct:tough_binding:0, Enderium Tough Binding
 tconstruct:tough_binding:0, Titanium Tough Binding
 tconstruct:tough_binding:0, Kyronite Tough Binding
-tconstruct:tough_binding:0, Thaumium Tough Binding
 tconstruct:tough_binding:0, Tanzanite Tough Binding
 tconstruct:tough_binding:0, Invar Tough Binding
 tconstruct:tough_binding:0, Malachite Tough Binding
@@ -15792,7 +15513,6 @@ tconstruct:wide_guard:0, Amethyst Wide Guard
 tconstruct:wide_guard:0, Enderium Wide Guard
 tconstruct:wide_guard:0, Titanium Wide Guard
 tconstruct:wide_guard:0, Kyronite Wide Guard
-tconstruct:wide_guard:0, Thaumium Wide Guard
 tconstruct:wide_guard:0, Tanzanite Wide Guard
 tconstruct:wide_guard:0, Invar Wide Guard
 tconstruct:wide_guard:0, Malachite Wide Guard
@@ -15871,7 +15591,6 @@ tconstruct:hand_guard:0, Amethyst Hand Guard
 tconstruct:hand_guard:0, Enderium Hand Guard
 tconstruct:hand_guard:0, Titanium Hand Guard
 tconstruct:hand_guard:0, Kyronite Hand Guard
-tconstruct:hand_guard:0, Thaumium Hand Guard
 tconstruct:hand_guard:0, Tanzanite Hand Guard
 tconstruct:hand_guard:0, Invar Hand Guard
 tconstruct:hand_guard:0, Malachite Hand Guard
@@ -15950,7 +15669,6 @@ tconstruct:cross_guard:0, Amethyst Cross Guard
 tconstruct:cross_guard:0, Enderium Cross Guard
 tconstruct:cross_guard:0, Titanium Cross Guard
 tconstruct:cross_guard:0, Kyronite Cross Guard
-tconstruct:cross_guard:0, Thaumium Cross Guard
 tconstruct:cross_guard:0, Tanzanite Cross Guard
 tconstruct:cross_guard:0, Invar Cross Guard
 tconstruct:cross_guard:0, Malachite Cross Guard
@@ -16029,7 +15747,6 @@ tconstruct:large_plate:0, Amethyst Large Plate
 tconstruct:large_plate:0, Enderium Large Plate
 tconstruct:large_plate:0, Titanium Large Plate
 tconstruct:large_plate:0, Kyronite Large Plate
-tconstruct:large_plate:0, Thaumium Large Plate
 tconstruct:large_plate:0, Tanzanite Large Plate
 tconstruct:large_plate:0, Invar Large Plate
 tconstruct:large_plate:0, Malachite Large Plate
@@ -16108,7 +15825,6 @@ tconstruct:knife_blade:0, Amethyst Knife Blade
 tconstruct:knife_blade:0, Enderium Knife Blade
 tconstruct:knife_blade:0, Titanium Knife Blade
 tconstruct:knife_blade:0, Kyronite Knife Blade
-tconstruct:knife_blade:0, Thaumium Knife Blade
 tconstruct:knife_blade:0, Tanzanite Knife Blade
 tconstruct:knife_blade:0, Invar Knife Blade
 tconstruct:knife_blade:0, Malachite Knife Blade
@@ -16187,7 +15903,6 @@ tconstruct:bow_limb:0, Amethyst Bowlimb
 tconstruct:bow_limb:0, Enderium Bowlimb
 tconstruct:bow_limb:0, Titanium Bowlimb
 tconstruct:bow_limb:0, Kyronite Bowlimb
-tconstruct:bow_limb:0, Thaumium Bowlimb
 tconstruct:bow_limb:0, Tanzanite Bowlimb
 tconstruct:bow_limb:0, Invar Bowlimb
 tconstruct:bow_limb:0, Malachite Bowlimb
@@ -16272,7 +15987,6 @@ tconstruct:arrow_head:0, Amethyst Arrow Head
 tconstruct:arrow_head:0, Enderium Arrow Head
 tconstruct:arrow_head:0, Titanium Arrow Head
 tconstruct:arrow_head:0, Kyronite Arrow Head
-tconstruct:arrow_head:0, Thaumium Arrow Head
 tconstruct:arrow_head:0, Tanzanite Arrow Head
 tconstruct:arrow_head:0, Invar Arrow Head
 tconstruct:arrow_head:0, Malachite Arrow Head
@@ -16459,11 +16173,7 @@ tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
-tconstruct:tooltables:1, Stencil Table
-tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:4, Pattern Chest
-tconstruct:tooltables:2, Part Builder
-tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
@@ -16510,8 +16220,6 @@ tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:5, Part Chest
 tconstruct:tooltables:3, Tool Station
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
@@ -16615,84 +16323,84 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Pipe Piece Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Fletching Cast
-tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Fletching Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Battery Cell Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Pipe Piece Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Fletching Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Fletching Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -17130,8 +16838,6 @@ conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
 conarm:armorforge:0, Armor Forge
-conarm:armorforge:0, Armor Forge
-conarm:armorforge:0, Armor Forge
 conarm:armorstation:0, Armor Station
 cookingforblockheads:cooking_table, Cooking Table
 cookingforblockheads:oven, Oven
@@ -17154,111 +16860,6 @@ cookingforblockheads:recipe_book:2, Cooking for Blockheads II
 cookingforblockheads:heating_unit, Heating Unit
 cookingforblockheads:ice_unit, Ice Unit
 cookingforblockheads:preservation_chamber, Preservation Chamber
-darkutils:trap_move, Vector Plate
-darkutils:trap_move_fast, Fast Vector Plate
-darkutils:trap_move_hyper, Extreme Vector Plate
-darkutils:update_detector, Block Update Detector
-darkutils:trap_tile:0, Poison Trap
-darkutils:trap_tile:1, Weakness Trap
-darkutils:trap_tile:2, Damage Trap
-darkutils:trap_tile:3, Slowness Trap
-darkutils:trap_tile:4, Flame Trap
-darkutils:trap_tile:5, Wither Trap
-darkutils:trap_tile:6, Maim Trap
-darkutils:trap_tile:7, Player Trap
-darkutils:trap_anchor, Anchor Plate
-darkutils:sneaky, Sneaky Block
-darkutils:sneaky_lever, Sneaky Lever
-darkutils:sneaky_ghost, Sneaky False Block
-darkutils:sneaky_torch, Sneaky Torch
-darkutils:sneaky_obsidian, Sneaky Obsidian
-darkutils:sneaky_plate, Sneaky Pressure Plate
-darkutils:sneaky_bedrock, Sneaky Bedrock
-darkutils:sneaky_button, Sneaky Button
-darkutils:shulker_pearl, Shulker Pearl
-darkutils:pearl_block:0, Pearl Block
-darkutils:pearl_block:1, Pearl Brick
-darkutils:pearl_block:2, Carved Pearl Block
-darkutils:pearl_block:3, Chiseled Pearl Block
-darkutils:timer, Timer
-darkutils:monolith:0, Monolith of Experience
-darkutils:monolith:1, Monolith of Spawning
-darkutils:filter:0, Mob Filter
-darkutils:filter:1, Mob Filter
-darkutils:filter:2, Mob Filter
-darkutils:filter:3, Mob Filter
-darkutils:filter:4, Mob Filter
-darkutils:filter:5, Mob Filter
-darkutils:filter:6, Mob Filter
-darkutils:filter:7, Mob Filter
-darkutils:filter:8, Mob Filter
-darkutils:filter:9, Mob Filter
-darkutils:filter:10, Mob Filter
-darkutils:filter_inverted:0, Inverted Mob Filter
-darkutils:filter_inverted:1, Inverted Mob Filter
-darkutils:filter_inverted:2, Inverted Mob Filter
-darkutils:filter_inverted:3, Inverted Mob Filter
-darkutils:filter_inverted:4, Inverted Mob Filter
-darkutils:filter_inverted:5, Inverted Mob Filter
-darkutils:filter_inverted:6, Inverted Mob Filter
-darkutils:filter_inverted:7, Inverted Mob Filter
-darkutils:filter_inverted:8, Inverted Mob Filter
-darkutils:filter_inverted:9, Inverted Mob Filter
-darkutils:filter_inverted:10, Inverted Mob Filter
-darkutils:lore_tag:0, §0Lore Tag
-darkutils:lore_tag:1, §1Lore Tag
-darkutils:lore_tag:2, §2Lore Tag
-darkutils:lore_tag:3, §3Lore Tag
-darkutils:lore_tag:4, §4Lore Tag
-darkutils:lore_tag:5, §5Lore Tag
-darkutils:lore_tag:6, §6Lore Tag
-darkutils:lore_tag:7, §7Lore Tag
-darkutils:lore_tag:8, §8Lore Tag
-darkutils:lore_tag:9, §9Lore Tag
-darkutils:lore_tag:10, §aLore Tag
-darkutils:lore_tag:11, §bLore Tag
-darkutils:lore_tag:12, §cLore Tag
-darkutils:lore_tag:13, §dLore Tag
-darkutils:lore_tag:14, §eLore Tag
-darkutils:lore_tag:15, §fLore Tag
-darkutils:grate, Item Grate
-darkutils:fake_tnt, TNT
-darkutils:ender_tether, Ender Tether
-darkutils:ender_hopper, Ender Hopper
-darkutils:ender_pearl_hopper, Pearled Ender Hopper
-darkutils:slime_dyed:0, White Slime Block
-darkutils:slime_dyed:1, Orange Slime Block
-darkutils:slime_dyed:2, Magenta Slime Block
-darkutils:slime_dyed:3, Light Blue Slime Block
-darkutils:slime_dyed:4, Yellow Slime Block
-darkutils:slime_dyed:5, Lime Slime Block
-darkutils:slime_dyed:6, Pink Slime Block
-darkutils:slime_dyed:7, Gray Slime Block
-darkutils:slime_dyed:8, Light Gray Slime Block
-darkutils:slime_dyed:9, Cyan Slime Block
-darkutils:slime_dyed:10, Purple Slime Block
-darkutils:slime_dyed:11, Blue Slime Block
-darkutils:slime_dyed:12, Brown Slime Block
-darkutils:slime_dyed:13, Green Slime Block
-darkutils:slime_dyed:14, Red Slime Block
-darkutils:slime_dyed:15, Black Slime Block
-darkutils:material:0, Wither Dust
-darkutils:material:1, Unstable Ender Pearl
-darkutils:material:2, Dwindle Cream
-darkutils:material:3, Dark Sugar
-darkutils:wither_block:0, Wither Dust Block
-darkutils:wither_block:1, Wither Dust Bricks
-darkutils:wither_block:2, Carved Wither Dust Block
-darkutils:wither_block:3, Chiseled Wither Dust Block
-darkutils:wither_block:4, Corrupted Wither Dust Block
-darkutils:wither_block:5, Checkered Wither Dust Block
-darkutils:charm_agression, Aggression Charm
-darkutils:focus_sash, Focus Sash
-darkutils:charm_gluttony, Gluttony Charm
-darkutils:charm_null, Null Charm
-darkutils:charm_portal, Portal Charm
-darkutils:charm_sleep, Sleep Charm
-darkutils:anti_slime, Anti-Slime Block
 zerocore:debugtool, Debug Tool
 bigreactors:ingotyellorium, Yellorium Ingot
 bigreactors:ingotcyanite, Cyanite Ingot
@@ -17791,6 +17392,7 @@ cgm:grenade_launcher, Grenade Launcher
 cgm:bazooka, Bazooka
 cgm:chain_gun, Minigun
 cgm:assault_rifle, Assault Rifle
+cgm:machine_pistol, Machine Pistol
 cgm:basic_ammo, Basic Ammo
 cgm:advanced_ammo, Advanced Ammo
 cgm:shell, Shell
@@ -17802,226 +17404,6 @@ cgm:scope:0, Scope (Short)
 cgm:scope:1, Scope (Medium)
 cgm:scope:2, Scope (Long)
 cgm:silencer, Silencer
-thaumcraft:thaumonomicon:0, Thaumonomicon
-thaumcraft:curio:0, Arcane Curiosity
-thaumcraft:curio:1, Preserved Curiosity
-thaumcraft:curio:2, Ancient Curiosity
-thaumcraft:curio:3, Eldritch Curiosity
-thaumcraft:curio:4, Illuminating Curiosity
-thaumcraft:curio:5, Twisted Curiosity
-thaumcraft:curio:6, Crimson Rites
-thaumcraft:loot_bag:0, Common Treasure
-thaumcraft:loot_bag:1, Uncommon Treasure
-thaumcraft:loot_bag:2, Rare Treasure
-thaumcraft:primordial_pearl, item.primordial_pearl.name
-thaumcraft:pech_wand, Pech Wand
-thaumcraft:celestial_notes:0, Celestial Notes
-thaumcraft:celestial_notes:1, Celestial Notes
-thaumcraft:celestial_notes:2, Celestial Notes
-thaumcraft:celestial_notes:3, Celestial Notes
-thaumcraft:celestial_notes:4, Celestial Notes
-thaumcraft:celestial_notes:5, Celestial Notes
-thaumcraft:celestial_notes:6, Celestial Notes
-thaumcraft:celestial_notes:7, Celestial Notes
-thaumcraft:celestial_notes:8, Celestial Notes
-thaumcraft:celestial_notes:9, Celestial Notes
-thaumcraft:celestial_notes:10, Celestial Notes
-thaumcraft:celestial_notes:11, Celestial Notes
-thaumcraft:celestial_notes:12, Celestial Notes
-thaumcraft:amber, {stored} in Amber
-thaumcraft:quicksilver, Quicksilver
-thaumcraft:ingot:0, Thaumium Ingot
-thaumcraft:ingot:1, Void Metal Ingot
-thaumcraft:ingot:2, Alchemical Brass Ingot
-thaumcraft:nugget:0, Iron Nugget
-thaumcraft:nugget:1, Copper Nugget
-thaumcraft:nugget:2, Tin Nugget
-thaumcraft:nugget:3, Silver Nugget
-thaumcraft:nugget:4, Lead Nugget
-thaumcraft:nugget:5, Quicksilver Drop
-thaumcraft:nugget:6, Thaumium Nugget
-thaumcraft:nugget:7, Void Metal Nugget
-thaumcraft:nugget:8, Alchemical Brass Nugget
-thaumcraft:nugget:9, Quartz Sliver
-thaumcraft:nugget:10, Rare Earths
-thaumcraft:cluster:0, Native Iron Cluster
-thaumcraft:cluster:1, Native Gold Cluster
-thaumcraft:cluster:2, Native Copper Cluster
-thaumcraft:cluster:3, Native Tin Cluster
-thaumcraft:cluster:4, Native Silver Cluster
-thaumcraft:cluster:5, Native Lead Cluster
-thaumcraft:cluster:6, Native Cinnabar Cluster
-thaumcraft:cluster:7, Native Quartz Cluster
-thaumcraft:fabric, Enchanted Fabric
-thaumcraft:vis_resonator, Vis Resonator
-thaumcraft:tallow, Magic Tallow
-thaumcraft:mechanism_simple, Simple Arcane Mechanism
-thaumcraft:mechanism_complex, Complex Arcane Mechanism
-thaumcraft:plate:0, Brass Plate
-thaumcraft:plate:1, Iron Plate
-thaumcraft:plate:2, Thaumium Plate
-thaumcraft:plate:3, Void Metal Plate
-thaumcraft:filter, Essentia Filter
-thaumcraft:morphic_resonator, Morphic Resonator
-thaumcraft:salis_mundus, Salis Mundus
-thaumcraft:mirrored_glass, Mirrored Glass
-thaumcraft:void_seed, Void Seed
-thaumcraft:mind:0, Clockwork Mind
-thaumcraft:mind:1, Biothaumic Mind
-thaumcraft:module:0, Vision Module
-thaumcraft:module:1, Aggression Module
-thaumcraft:crystal_essence, %s Vis Crystal
-thaumcraft:chunk:0, Beef Nugget
-thaumcraft:chunk:1, Chicken Nugget
-thaumcraft:chunk:2, Pork Nugget
-thaumcraft:chunk:3, Fish Nugget
-thaumcraft:chunk:4, Rabbit Nugget
-thaumcraft:chunk:5, Mutton Nugget
-thaumcraft:triple_meat_treat, Triple Meat Treat
-thaumcraft:brain, Zombie Brain
-thaumcraft:label:0, Blank Label
-thaumcraft:phial:0, Glass Phial
-thaumcraft:phial:1, Phial of Aer Essentia
-thaumcraft:phial:1, Phial of Terra Essentia
-thaumcraft:phial:1, Phial of Ignis Essentia
-thaumcraft:phial:1, Phial of Aqua Essentia
-thaumcraft:phial:1, Phial of Ordo Essentia
-thaumcraft:phial:1, Phial of Perditio Essentia
-thaumcraft:phial:1, Phial of Vacuos Essentia
-thaumcraft:phial:1, Phial of Lux Essentia
-thaumcraft:phial:1, Phial of Motus Essentia
-thaumcraft:phial:1, Phial of Gelum Essentia
-thaumcraft:phial:1, Phial of Vitreus Essentia
-thaumcraft:phial:1, Phial of Metallum Essentia
-thaumcraft:phial:1, Phial of Victus Essentia
-thaumcraft:phial:1, Phial of Mortuus Essentia
-thaumcraft:phial:1, Phial of Potentia Essentia
-thaumcraft:phial:1, Phial of Permutatio Essentia
-thaumcraft:phial:1, Phial of Praecantatio Essentia
-thaumcraft:phial:1, Phial of Auram Essentia
-thaumcraft:phial:1, Phial of Alkimia Essentia
-thaumcraft:phial:1, Phial of Vitium Essentia
-thaumcraft:phial:1, Phial of Tenebrae Essentia
-thaumcraft:phial:1, Phial of Alienis Essentia
-thaumcraft:phial:1, Phial of Volatus Essentia
-thaumcraft:phial:1, Phial of Herba Essentia
-thaumcraft:phial:1, Phial of Instrumentum Essentia
-thaumcraft:phial:1, Phial of Fabrico Essentia
-thaumcraft:phial:1, Phial of Machina Essentia
-thaumcraft:phial:1, Phial of Vinculum Essentia
-thaumcraft:phial:1, Phial of Spiritus Essentia
-thaumcraft:phial:1, Phial of Cognitio Essentia
-thaumcraft:phial:1, Phial of Sensus Essentia
-thaumcraft:phial:1, Phial of Aversio Essentia
-thaumcraft:phial:1, Phial of Praemunio Essentia
-thaumcraft:phial:1, Phial of Desiderium Essentia
-thaumcraft:phial:1, Phial of Exanimis Essentia
-thaumcraft:phial:1, Phial of Bestia Essentia
-thaumcraft:phial:1, Phial of Humanus Essentia
-thaumcraft:phial:1, Phial of Sol Essentia
-thaumcraft:alumentum:0, Alumentum
-thaumcraft:jar_brace, Brass Lid Brace
-thaumcraft:bottle_taint, Bottle of Taint
-thaumcraft:sanity_soap, Sanitizing Soap
-thaumcraft:bath_salts, Purifying Bath Salts
-thaumcraft:turret:0, Automated Crossbow
-thaumcraft:turret:1, Advanced Automated Crossbow
-thaumcraft:turret:2, Arcane Bore
-thaumcraft:causality_collapser, Causality Collapser
-thaumcraft:scribing_tools, Scribing Tools
-thaumcraft:thaumometer, Thaumometer
-thaumcraft:resonator, Essentia Resonator
-thaumcraft:sanity_checker, Sanity Checker
-thaumcraft:hand_mirror, Magic Hand Mirror
-thaumcraft:thaumium_axe, Thaumium Axe
-thaumcraft:thaumium_sword, Thaumium Sword
-thaumcraft:thaumium_shovel, Thaumium Shovel
-thaumcraft:thaumium_pick, Thaumium Pickaxe
-thaumcraft:thaumium_hoe, Thaumium Hoe
-thaumcraft:void_axe, Void Axe
-thaumcraft:void_sword, Void Sword
-thaumcraft:void_shovel, Void Shovel
-thaumcraft:void_pick, Void Pickaxe
-thaumcraft:void_hoe, Void Hoe
-thaumcraft:elemental_axe, Axe of the Stream
-thaumcraft:elemental_sword, Sword of the Zephyr
-thaumcraft:elemental_shovel, Shovel of the Earthmover
-thaumcraft:elemental_pick, Pickaxe of the Core
-thaumcraft:elemental_hoe, Hoe of Growth
-thaumcraft:primal_crusher, Primal Crusher
-thaumcraft:crimson_blade, Crimson Blade
-thaumcraft:grapple_gun, Arcane Grappler
-thaumcraft:grapple_gun_tip, Grappler Head
-thaumcraft:grapple_gun_spool, Grappler Spool
-thaumcraft:goggles, Goggles of Revealing
-thaumcraft:thaumium_helm, Thaumium Helm
-thaumcraft:thaumium_chest, Thaumium Chestplate
-thaumcraft:thaumium_legs, Thaumium Leggings
-thaumcraft:thaumium_boots, Thaumium Boots
-thaumcraft:cloth_chest, Thaumaturge's Robe
-thaumcraft:cloth_legs, Thaumaturge's Leggings
-thaumcraft:cloth_boots, Thaumaturge's Boots
-thaumcraft:traveller_boots, Boots of the Traveller
-thaumcraft:fortress_helm, Thaumium Fortress Helm
-thaumcraft:fortress_chest, Thaumium Fortress Cuirass
-thaumcraft:fortress_legs, Thaumium Fortress Thigh Guards
-thaumcraft:void_helm, Void Helm
-thaumcraft:void_chest, Void Chestplate
-thaumcraft:void_legs, Void Leggings
-thaumcraft:void_boots, Void Boots
-thaumcraft:void_robe_helm, Void Thaumaturge Hood
-thaumcraft:void_robe_chest, Void Thaumaturge Robe
-thaumcraft:void_robe_legs, Void Thaumaturge Leggings
-thaumcraft:crimson_plate_helm, Crimson Cult Helm
-thaumcraft:crimson_plate_chest, Crimson Cult Chestplate
-thaumcraft:crimson_plate_legs, Crimson Cult Greaves
-thaumcraft:crimson_boots, Crimson Cult Boots
-thaumcraft:crimson_robe_helm, Crimson Cult Hood
-thaumcraft:crimson_robe_chest, Crimson Cult Robe
-thaumcraft:crimson_robe_legs, Crimson Cult Leggings
-thaumcraft:crimson_praetor_helm, Crimson Praetor Helm
-thaumcraft:crimson_praetor_chest, Crimson Praetor Chestplate
-thaumcraft:crimson_praetor_legs, Crimson Praetor Greaves
-thaumcraft:baubles:0, Mundane Amulet
-thaumcraft:baubles:1, Mundane Ring
-thaumcraft:baubles:2, Mundane Belt
-thaumcraft:baubles:3, Apprentice's Ring
-thaumcraft:baubles:4, Fancy Amulet
-thaumcraft:baubles:5, Fancy Ring
-thaumcraft:baubles:6, Fancy Belt
-thaumcraft:amulet_vis:0, Vis Stone
-thaumcraft:amulet_vis:1, Amulet of Vis
-thaumcraft:verdant_charm, Verdant Heart Charm
-thaumcraft:curiosity_band, Headband of Curiosity
-thaumcraft:voidseer_charm, Voidseer's Pearl
-thaumcraft:cloud_ring, Cloudstepper Ring
-thaumcraft:charm_undying, Charm of Undying
-thaumcraft:creative_flux_sponge, Flux Sponge
-thaumcraft:enchanted_placeholder, Any enchanted item
-thaumcraft:caster_basic, Caster's Gauntlet 
-thaumcraft:focus_1, Blank Lesser Focus
-thaumcraft:focus_2, Blank Advanced Focus
-thaumcraft:focus_3, Blank Greater Focus
-thaumcraft:focus_pouch, Focus Pouch
-thaumcraft:golem_bell, Golemancer's Bell
-thaumcraft:golem, Golem
-thaumcraft:seal:0, Blank Seal
-thaumcraft:seal:1, Control Seal: Collect
-thaumcraft:seal:2, Advanced Control Seal: Collect
-thaumcraft:seal:3, Control Seal: Store
-thaumcraft:seal:4, Advanced Control Seal: Store
-thaumcraft:seal:5, Control Seal: Empty
-thaumcraft:seal:6, Advanced Control Seal: Empty
-thaumcraft:seal:7, Control Seal: Harvest
-thaumcraft:seal:8, Control Seal: Butcher
-thaumcraft:seal:9, Control Seal: Guard
-thaumcraft:seal:10, Advanced Control Seal: Guard
-thaumcraft:seal:11, Control Seal: Lumberjack
-thaumcraft:seal:12, Control Seal: Block Breaker
-thaumcraft:seal:13, Control Seal: Use
-thaumcraft:seal:14, Control Seal: Provide
-thaumcraft:seal:15, Control Seal: Stock
-thaumcraft:seal:16, Control Seal: Advanced Block Breaker
 immersiveengineering:ore:0, Copper Ore
 immersiveengineering:ore:1, Bauxite Ore
 immersiveengineering:ore:2, Lead Ore
@@ -18719,24 +18101,6 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -18857,6 +18221,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 powersuits:powerarmor_head, Power Armor Helmet
 powersuits:powerarmor_torso, Power Armor Chestplate
 powersuits:powerarmor_legs, Power Armor Leggings
@@ -18933,7 +18315,6 @@ plustic:pipe_piece:0, Amethyst Pipe Piece
 plustic:pipe_piece:0, Enderium Pipe Piece
 plustic:pipe_piece:0, Titanium Pipe Piece
 plustic:pipe_piece:0, Kyronite Pipe Piece
-plustic:pipe_piece:0, Thaumium Pipe Piece
 plustic:pipe_piece:0, Tanzanite Pipe Piece
 plustic:pipe_piece:0, Invar Pipe Piece
 plustic:pipe_piece:0, Malachite Pipe Piece
@@ -19269,6 +18650,90 @@ storagedrawersextra:extra_trim_0, tile.extraTrim0.name
 storagedrawersextra:extra_trim_1, tile.extraTrim1.name
 storagedrawersextra:extra_trim_2, tile.extraTrim2.name
 storagedrawersextra:extra_trim_3, tile.extraTrim3.name
+thuttech:devicelinker:0, Device Linker
+thuttech:devicelinker:0, ThutTech Manual
+thuttech:lift:0, Elevator
+thuttech:lift:1, Elevator Controller Block
+vehicle:small_engine:0, Small Engine
+vehicle:small_engine:1, Small Engine
+vehicle:small_engine:2, Small Engine
+vehicle:small_engine:3, Small Engine
+vehicle:small_engine:4, Small Engine
+vehicle:large_engine:0, Large Engine
+vehicle:large_engine:1, Large Engine
+vehicle:large_engine:2, Large Engine
+vehicle:large_engine:3, Large Engine
+vehicle:large_engine:4, Large Engine
+vehicle:electric_engine:0, Electric Engine
+vehicle:electric_engine:1, Electric Engine
+vehicle:electric_engine:2, Electric Engine
+vehicle:electric_engine:3, Electric Engine
+vehicle:electric_engine:4, Electric Engine
+vehicle:panel, Panel
+vehicle:wheel:0, Wheel
+vehicle:wheel:1, Wheel
+vehicle:wheel:2, Wheel
+vehicle:wheel:3, Wheel
+vehicle:wheel:4, Wheel
+vehicle:wheel:5, Wheel
+vehicle:wheel:6, Wheel
+vehicle:atv_body, item.atv_body.name
+vehicle:handle_bar, Handle Bars
+vehicle:dune_buggy_body, item.dune_buggy_body.name
+vehicle:dune_buggy_handle_bar, item.dune_buggy_handle_bar.name
+vehicle:go_kart_body, item.go_kart_body.name
+vehicle:go_kart_steering_wheel, Steering Wheel
+vehicle:shopping_cart_body, item.shopping_cart_body.name
+vehicle:mini_bike_body, item.mini_bike_body.name
+vehicle:mini_bike_handle_bar, item.mini_bike_handle_bar.name
+vehicle:bumper_car_body, item.bumper_car_body.name
+vehicle:jet_ski_body, item.jet_ski_body.name
+vehicle:speed_boat_body, item.speed_boat_body.name
+vehicle:aluminum_boat_body, item.aluminum_boat_body.name
+vehicle:smart_car_body, item.smart_car_body.name
+vehicle:lawn_mower_body, item.lawn_mower_body.name
+vehicle:moped_body, item.moped_body.name
+vehicle:moped_mud_guard, item.moped_mud_guard.name
+vehicle:moped_handle_bar, item.moped_handle_bar.name
+vehicle:sports_plane_body, item.sports_plane_body.name
+vehicle:sports_plane_wing, item.sports_plane_wing.name
+vehicle:sports_plane_wheel_cover, item.sports_plane_wheel_cover.name
+vehicle:sports_plane_leg, item.sports_plane_leg.name
+vehicle:sports_plane_propeller, item.sports_plane_propeller.name
+vehicle:golf_cart_body, item.golf_cart_body.name
+vehicle:off_roader_body, item.off_roader_body.name
+vehicle:tractor_body, item.tractor_body.name
+vehicle:trailer_body, item.trailer_body.name
+vehicle:tow_bar, Tow Bar
+vehicle:spray_can:0, Spray Can
+vehicle:jerry_can, Jerry Can
+vehicle:industrial_jerry_can, Industrial Jerry Can
+vehicle:fuel_port_closed, item.fuel_port_closed.name
+vehicle:fuel_port_body, item.fuel_port_body.name
+vehicle:fuel_port_lid, item.fuel_port_lid.name
+vehicle:fuel_port_2_closed, item.fuel_port_2_closed.name
+vehicle:fuel_port_2_pipe, item.fuel_port_2_pipe.name
+vehicle:wrench, Wrench
+vehicle:hammer, Hammer
+vehicle:key, Key
+vehicle:key_hole, item.key_hole.name
+vehicle:models, item.models.name
+vehicle:couch_helicopter_arm, item.couch_helicopter_arm.name
+vehicle:couch_helicopter_skid, item.couch_helicopter_skid.name
+vehicle:traffic_cone, Traffic Cone
+vehicle:boost_pad, Boost Pad
+vehicle:boost_ramp, Boost Ramp
+vehicle:steep_boost_ramp, Steep Boost Ramp
+vehicle:gas_pump, Gas Pump
+vehicle:fluid_extractor, Fluid Extractor
+vehicle:fluid_mixer, Fluid Mixer
+vehicle:fluid_pipe, Fluid Pipe
+vehicle:fluid_pump, Fluid Pump
+vehicle:fuel_drum, Fuel Drum
+vehicle:industrial_fuel_drum, Industrial Fuel Drum
+vehicle:workstation, Workstation
+vehicle:vehicle_crate, Vehicle Crate
+vehicle:jack, Jack
 warpbook:warpbook, Warp Book
 warpbook:warpcluster, Warp Cluster
 warpbook:unboundwarppage, Unbound Warp Page
@@ -19283,337 +18748,84 @@ warpbook:playerwarppotion, Player Warp Potion
 warpbook:hyperwarppotion, Hyper Warp Potion
 warpbook:bookcloner, Warp Book Cloner
 warpbook:teleporter, Teleporter
-jurassicraft:paddock_sign, Paddock Sign
-jurassicraft:encephalartos, Encephalartos
-jurassicraft:hatched_egg:0, Hatched Velociraptor Egg
-jurassicraft:lithostrotion_coral, Lithostrotion
-jurassicraft:anal_fin_fresh:1, Fresh Coelacanth Anal Fin
-jurassicraft:psaronius_planks, Psaronius Planks
-jurassicraft:phoenix_log, Phoenix Log
-jurassicraft:cultivate_top:0, White Cultivator
-jurassicraft:cultivate_top:1, Orange Cultivator
-jurassicraft:cultivate_top:2, Magenta Cultivator
-jurassicraft:cultivate_top:3, Light Blue Cultivator
-jurassicraft:cultivate_top:4, Yellow Cultivator
-jurassicraft:cultivate_top:5, Lime Cultivator
-jurassicraft:cultivate_top:6, Pink Cultivator
-jurassicraft:cultivate_top:7, Gray Cultivator
-jurassicraft:cultivate_top:8, Light Gray Cultivator
-jurassicraft:cultivate_top:9, Cyan Cultivator
-jurassicraft:cultivate_top:10, Purple Cultivator
-jurassicraft:cultivate_top:11, Blue Cultivator
-jurassicraft:cultivate_top:12, Brown Cultivator
-jurassicraft:cultivate_top:13, Green Cultivator
-jurassicraft:cultivate_top:14, Red Cultivator
-jurassicraft:cultivate_top:15, Black Cultivator
-jurassicraft:araucaria_double_slab:0, Araucaria Slab
-jurassicraft:bennettitalean_cycadeoidea, Cycadeoidea
-jurassicraft:psaronius_log, Psaronius Log
-jurassicraft:ginkgo_door, Ginkgo Door
-jurassicraft:lithostrotion, tile.lithostrotion.name
-jurassicraft:horn_fresh:19, Fresh Triceratops Horn
-jurassicraft:clear_glass, Clear Glass
-jurassicraft:computer_screen, Computer Screen
-jurassicraft:fossilized_trackway:0, Fossilized Biped Trackway
-jurassicraft:fossilized_trackway:1, Fossilized Small Biped Trackway
-jurassicraft:fossilized_trackway:2, Fossilized Raptor Trackway
-jurassicraft:calamites_fence, Calamites Fence
-jurassicraft:tour_rail, Tour Vehicle Track
-jurassicraft:empty_test_tube, Empty Test Tube
-jurassicraft:tour_rail_medium, Medium Tour Vehicle Track
-jurassicraft:reinforced_stone, Reinforced Stone
-jurassicraft:dart_poison_cycasin, Poisoned Dart
-jurassicraft:krill_swarm, tile.krill_swarm.name
-jurassicraft:plant_soft_tissue:0, Ajuginucula Smithii Soft Tissue
-jurassicraft:plant_soft_tissue:25, Araucaria Soft Tissue
-jurassicraft:plant_soft_tissue:34, Aulopora Soft Tissue
-jurassicraft:plant_soft_tissue:6, Cycadeoidea Soft Tissue
-jurassicraft:plant_soft_tissue:27, Bristle Fern Soft Tissue
-jurassicraft:plant_soft_tissue:2, Calamites Soft Tissue
-jurassicraft:plant_soft_tissue:26, Cinnamon Fern Soft Tissue
-jurassicraft:plant_soft_tissue:35, Cladochonus Soft Tissue
-jurassicraft:plant_soft_tissue:7, Cry Pansy Soft Tissue
-jurassicraft:plant_soft_tissue:9, Zamites Soft Tissue
-jurassicraft:plant_soft_tissue:10, Dicksonia Soft Tissue
-jurassicraft:plant_soft_tissue:12, Dicroidium Zuberi Soft Tissue
-jurassicraft:plant_soft_tissue:13, Dictyophyllum Soft Tissue
-jurassicraft:plant_soft_tissue:33, Enallhelia Soft Tissue
-jurassicraft:plant_soft_tissue:21, Encephalartos Soft Tissue
-jurassicraft:plant_soft_tissue:5, Ginkgo Soft Tissue
-jurassicraft:plant_soft_tissue:32, Graminidites Bambusoides Soft Tissue
-jurassicraft:plant_soft_tissue:38, Hippurites Radiosus Soft Tissue
-jurassicraft:plant_soft_tissue:16, Ladinia Simplex Soft Tissue
-jurassicraft:plant_soft_tissue:30, Largestipule Leather-root Soft Tissue
-jurassicraft:plant_soft_tissue:19, Liriodendrites Soft Tissue
-jurassicraft:plant_soft_tissue:36, Lithostrotion Soft Tissue
-jurassicraft:plant_soft_tissue:17, Orontium Mackii Soft Tissue
-jurassicraft:plant_soft_tissue:23, Phoenix Soft Tissue
-jurassicraft:plant_soft_tissue:22, Psaronius Soft Tissue
-jurassicraft:plant_soft_tissue:20, Raphaelia Soft Tissue
-jurassicraft:plant_soft_tissue:31, Rhacophyton Soft Tissue
-jurassicraft:plant_soft_tissue:40, Rhamnus Salifocifus Soft Tissue
-jurassicraft:plant_soft_tissue:8, Scaly Tree Fern Soft Tissue
-jurassicraft:plant_soft_tissue:15, Serenna Veriformans Soft Tissue
-jurassicraft:plant_soft_tissue:3, Chain Fern Soft Tissue
-jurassicraft:plant_soft_tissue:4, Cycad Soft Tissue
-jurassicraft:plant_soft_tissue:1, Royal Fern Soft Tissue
-jurassicraft:plant_soft_tissue:37, Stylophyllopsis Soft Tissue
-jurassicraft:plant_soft_tissue:28, Tempskya Soft Tissue
-jurassicraft:plant_soft_tissue:18, Umaltolepis Soft Tissue
-jurassicraft:plant_soft_tissue:11, Wild Onion Soft Tissue
-jurassicraft:plant_soft_tissue:24, Wild Potato Soft Tissue
-jurassicraft:plant_soft_tissue:29, Woolly-stalked Begonia Soft Tissue
-jurassicraft:araucaria_log, Araucaria Log
-jurassicraft:araucaria_sapling, Araucaria Sapling
-jurassicraft:gracilaria_coral, Gracilaria
-jurassicraft:calamites_log, Calamites Log
-jurassicraft:small_cycad, Cycad
-jurassicraft:feeder, Feeder
-jurassicraft:ginkgo_leaves, Ginkgo Leaves
-jurassicraft:pelvis:3, Brachiosaurus Pelvis
-jurassicraft:pelvis:7, Dilophosaurus Pelvis
-jurassicraft:pelvis:9, Gallimimus Pelvis
-jurassicraft:pelvis:2, Microraptor Pelvis
-jurassicraft:pelvis:4, Mussaurus Pelvis
-jurassicraft:pelvis:13, Parasaurolophus Pelvis
-jurassicraft:pelvis:19, Triceratops Pelvis
-jurassicraft:pelvis:20, Tyrannosaurus Pelvis
-jurassicraft:west_indian_lilac, West Indian Lilac
-jurassicraft:ginkgo_fence_gate, Ginkgo Fence Gate
-jurassicraft:tempskya, Tempskya
-jurassicraft:dicksonia, Dicksonia
-jurassicraft:birthing_wand, Birthing Wand
-jurassicraft:paleo_bale_cycadeoidea, Bennettitalean Prehistoric Plant Bale
-jurassicraft:psaronius_sapling, Psaronius Sapling
-jurassicraft:enallhelia, tile.enallhelia.name
-jurassicraft:plant_fossil_block, Plant Fossil
-jurassicraft:spine_fresh:1, Fresh Coelacanth Spine
-jurassicraft:araucaria_door, Araucaria Door
-jurassicraft:laser, Laser
-jurassicraft:chilean_sea_bass, Chilean Sea Bass
-jurassicraft:encased_fossil_1:3, Encased Triceratops Fossil
-jurassicraft:encased_fossil_1:4, Encased Tyrannosaurus Fossil
-jurassicraft:first_dorsal_fin:1, Coelacanth First Dorsal Fin
-jurassicraft:wild_potato_seeds, Wild Potato Seeds
-jurassicraft:embryonic_machine, Embryonic Machine
-jurassicraft:car_chassis, Car Chassis
-jurassicraft:unfinished_car, Unfinished Car
-jurassicraft:caudal_fin:1, Coelacanth Caudal Fin
-jurassicraft:clear_glass_pane, Clear Glass Pane
-jurassicraft:cockroaches, Cockroaches
-jurassicraft:goat_raw, Raw Goat
-jurassicraft:ginkgo_fence, Ginkgo Fence
-jurassicraft:leg_bones_fresh:7, Fresh Dilophosaurus Leg Bones
-jurassicraft:leg_bones_fresh:9, Fresh Gallimimus Leg Bones
-jurassicraft:leg_bones_fresh:2, Fresh Microraptor Leg Bones
-jurassicraft:leg_bones_fresh:4, Fresh Mussaurus Leg Bones
-jurassicraft:leg_bones_fresh:20, Fresh Tyrannosaurus Leg Bones
-jurassicraft:leg_bones_fresh:0, Fresh Velociraptor Leg Bones
-jurassicraft:petri_dish_agar, Petri Dish With Agar
-jurassicraft:car_windscreen, Car Windscreen
-jurassicraft:petri_dish, Petri Dish
-jurassicraft:tail_vertebrae_fresh:3, Fresh Brachiosaurus Tail Vertebrae
-jurassicraft:tail_vertebrae_fresh:7, Fresh Dilophosaurus Tail Vertebrae
-jurassicraft:tail_vertebrae_fresh:9, Fresh Gallimimus Tail Vertebrae
-jurassicraft:tail_vertebrae_fresh:2, Fresh Microraptor Tail Vertebrae
-jurassicraft:tail_vertebrae_fresh:4, Fresh Mussaurus Tail Vertebrae
-jurassicraft:tail_vertebrae_fresh:13, Fresh Parasaurolophus Tail Vertebrae
-jurassicraft:tail_vertebrae_fresh:19, Fresh Triceratops Tail Vertebrae
-jurassicraft:tail_vertebrae_fresh:20, Fresh Tyrannosaurus Tail Vertebrae
-jurassicraft:tail_vertebrae_fresh:0, Fresh Velociraptor Tail Vertebrae
-jurassicraft:rhamnus_salicifolius, Rhamnus Salicifolius
-jurassicraft:shoulder_bone_fresh:13, Fresh Parasaurolophus Shoulder Bones
-jurassicraft:shoulder_bone_fresh:19, Fresh Triceratops Shoulder Bones
-jurassicraft:shoulder_bone_fresh:20, Fresh Tyrannosaurus Shoulder Bones
-jurassicraft:shoulder_bone_fresh:0, Fresh Velociraptor Shoulder Bones
-jurassicraft:shoulder_fresh:3, Fresh Brachiosaurus Shoulder
-jurassicraft:shoulder_fresh:7, Fresh Dilophosaurus Shoulder
-jurassicraft:shoulder_fresh:9, Fresh Gallimimus Shoulder
-jurassicraft:shoulder_fresh:2, Fresh Microraptor Shoulder
-jurassicraft:shoulder_fresh:4, Fresh Mussaurus Shoulder
 jurassicraft:araucaria_log_petrified, Petrified Araucaria Log
-jurassicraft:low_security_fence_wire, Low Security Fence Wire
-jurassicraft:sea_lamprey, Sea Lamprey
-jurassicraft:disc_jurassicraft_theme, JurassiCraft Record
-jurassicraft:psaronius_fence_gate, Psaronius Fence Gate
-jurassicraft:skeleton_assembly, Skeleton Assembly Table
-jurassicraft:ribcage:3, Brachiosaurus Ribcage
-jurassicraft:ribcage:7, Dilophosaurus Ribcage
-jurassicraft:ribcage:9, Gallimimus Ribcage
-jurassicraft:ribcage:2, Microraptor Ribcage
-jurassicraft:ribcage:4, Mussaurus Ribcage
-jurassicraft:ribcage:13, Parasaurolophus Ribcage
-jurassicraft:ribcage:19, Triceratops Ribcage
-jurassicraft:ribcage:20, Tyrannosaurus Ribcage
-jurassicraft:ribcage:0, Velociraptor Ribcage
-jurassicraft:woolly_stalked_begonia, Woolly-stalked Begonia
-jurassicraft:paleo_bale_leaves, Leaves Prehistoric Plant Bale
-jurassicraft:paleo_bale_cycad, Cycad Prehistoric Plant Bale
+jurassicraft:araucaria_door_item, Araucaria Door
+jurassicraft:araucaria_stairs, Araucaria Stairs
+jurassicraft:calamites_sapling, Calamites Sapling
+jurassicraft:lithostrotion_coral, Lithostrotion
+jurassicraft:caudal_fin_fresh:1, Fresh Coelacanth Caudal Fin
+jurassicraft:peat_moss, Peat Moss
+jurassicraft:first_dorsal_fin:1, Coelacanth First Dorsal Fin
+jurassicraft:tour_rail, Tour Vehicle Track
+jurassicraft:skull_display_block, tile.skull_display_block.name
+jurassicraft:phoenix_door_item, Phoenix Door
+jurassicraft:tooth_fresh:3, Fresh Brachiosaurus Tooth
+jurassicraft:tooth_fresh:7, Fresh Dilophosaurus Tooth
+jurassicraft:tooth_fresh:2, Fresh Microraptor Tooth
+jurassicraft:tooth_fresh:19, Fresh Triceratops Tooth
+jurassicraft:tooth_fresh:20, Fresh Tyrannosaurus Tooth
+jurassicraft:tooth_fresh:0, Fresh Velociraptor Tooth
+jurassicraft:iron_blades, Iron Blades
+jurassicraft:fine_net, Fine Net
+jurassicraft:araucaria_log, Araucaria Log
 jurassicraft:dna_synthesizer, DNA Synthesizer
-jurassicraft:paleo_bale_fern, Fern Prehistoric Plant Bale
-jurassicraft:plaster_and_bandage, Plaster and Bandage
-jurassicraft:pelvic_fin_bones:1, Coelacanth Pelvic Fin Bones
-jurassicraft:cladochonus, tile.cladochonus.name
-jurassicraft:hippurites_radiosus, tile.hippurites_radiosus.name
-jurassicraft:vehicle_item:0, Ford Explorer
-jurassicraft:vehicle_item:1, Jeep Wrangler
-jurassicraft:vehicle_item:2, Helicopter
-jurassicraft:dna_combinator_hybridizer, DNA Combinator-Hybridizer
-jurassicraft:ladinia_simplex, Ladinia Simplex
-jurassicraft:wild_onion, Wild Onion
-jurassicraft:amber_ore, Amber Ore
-jurassicraft:gracilaria_seaweed, Gracilaria Plant
-jurassicraft:syringe:3, Brachiosaurus Syringe
-jurassicraft:syringe:1, Coelacanth Syringe
-jurassicraft:syringe:7, Dilophosaurus Syringe
-jurassicraft:syringe:9, Gallimimus Syringe
-jurassicraft:syringe:2, Microraptor Syringe
-jurassicraft:syringe:4, Mussaurus Syringe
-jurassicraft:syringe:13, Parasaurolophus Syringe
-jurassicraft:syringe:19, Triceratops Syringe
-jurassicraft:syringe:20, Tyrannosaurus Syringe
-jurassicraft:syringe:0, Velociraptor Syringe
-jurassicraft:fossilized_egg:0, Fossilized Egg
-jurassicraft:fossilized_egg:1, Fossilized Egg
-jurassicraft:fossilized_egg:2, Fossilized Egg
-jurassicraft:embryo_calcification_machine, Embryo Calcification Machine
-jurassicraft:phoenix_slab:0, Phoenix Slab
-jurassicraft:bristle_fern, Bristle Fern
+jurassicraft:feeder, Feeder
+jurassicraft:psaronius_sapling, Psaronius Sapling
+jurassicraft:rhacophyton, Rhacophyton
+jurassicraft:caudal_fin:1, Coelacanth Caudal Fin
+jurassicraft:wild_potato_seeds, Wild Potato Seeds
 jurassicraft:plant_cells_petri_dish, Plant Cells in Petri Dish
-jurassicraft:mr_dna_keychain, Mr DNA Keychain
-jurassicraft:wild_potato_cooked, Cooked Wild Potato
-jurassicraft:dart_poison_executioner_concoction, Lethal Dart
-jurassicraft:fossil_block_1:3, Triceratops Fossil
-jurassicraft:fossil_block_1:4, Tyrannosaurus Fossil
-jurassicraft:amber:0, Mosquito in Amber
-jurassicraft:amber:1, Aphid in Amber
-jurassicraft:psaronius_log_petrified, Petrified Psaronius Log
-jurassicraft:dicroidium_zuberi, Dicroidium Zuberi
+jurassicraft:leg_bones:7, Dilophosaurus Leg Bones
+jurassicraft:leg_bones:9, Gallimimus Leg Bones
+jurassicraft:leg_bones:2, Microraptor Leg Bones
+jurassicraft:leg_bones:4, Mussaurus Leg Bones
+jurassicraft:leg_bones:20, Tyrannosaurus Leg Bones
+jurassicraft:leg_bones:0, Velociraptor Leg Bones
+jurassicraft:amber_ore, Amber Ore
+jurassicraft:ginkgo_leaves, Ginkgo Leaves
+jurassicraft:neck:7, Dilophosaurus Neck
+jurassicraft:tour_rail_medium, Medium Tour Vehicle Track
+jurassicraft:low_security_fence_pole, Low Security Fence Pole
+jurassicraft:paleo_bale_cycad, Cycad Prehistoric Plant Bale
+jurassicraft:reinforced_stone, Reinforced Stone
+jurassicraft:calamites_fence, Calamites Fence
+jurassicraft:engine_system, Engine System
+jurassicraft:arm_bones:7, Dilophosaurus Arm Bones
+jurassicraft:arm_bones:9, Gallimimus Arm Bones
+jurassicraft:arm_bones:2, Microraptor Arm Bones
+jurassicraft:arm_bones:4, Mussaurus Arm Bones
+jurassicraft:arm_bones:20, Tyrannosaurus Arm Bones
+jurassicraft:arm_bones:0, Velociraptor Arm Bones
+jurassicraft:bug_crate, Bug Farming Crate
+jurassicraft:cladochonus_coral, Cladochonus
+jurassicraft:phoenix_log, Phoenix Log
+jurassicraft:clear_glass_pane, Clear Glass Pane
+jurassicraft:encased_nest_fossil:0, Encased Fossilized Nest
+jurassicraft:encased_nest_fossil:1, Encased Fossilized Nest
+jurassicraft:encased_nest_fossil:2, Encased Fossilized Nest
+jurassicraft:cladochonus, tile.cladochonus.name
+jurassicraft:foot_bones_fresh:9, Fresh Gallimimus Foot Bones
+jurassicraft:foot_bones_fresh:2, Fresh Microraptor Foot Bones
+jurassicraft:foot_bones_fresh:20, Fresh Tyrannosaurus Foot Bones
+jurassicraft:foot_bones_fresh:0, Fresh Velociraptor Foot Bones
+jurassicraft:spine:1, Coelacanth Spine
+jurassicraft:wild_onion, Wild Onion
+jurassicraft:hind_leg_bones_fresh:3, Fresh Brachiosaurus Hind Leg Bones
+jurassicraft:hind_leg_bones_fresh:13, Fresh Parasaurolophus Hind Leg Bones
+jurassicraft:hind_leg_bones_fresh:19, Fresh Triceratops Hind Leg Bones
+jurassicraft:oiled_potato_strips, Oiled Potato Strips
+jurassicraft:sea_lamprey, Sea Lamprey
+jurassicraft:cleaning_station, Cleaning Station
+jurassicraft:moss, Moss
+jurassicraft:dart_tranquilizer, Dart Tranquilizer
+jurassicraft:aulopora_coral, Aulopora
 jurassicraft:shoulder:3, Brachiosaurus Shoulder
 jurassicraft:shoulder:7, Dilophosaurus Shoulder
 jurassicraft:shoulder:9, Gallimimus Shoulder
 jurassicraft:shoulder:2, Microraptor Shoulder
 jurassicraft:shoulder:4, Mussaurus Shoulder
-jurassicraft:peat_moss, Peat Moss
-jurassicraft:claw_fresh:0, Fresh Velociraptor Claw
-jurassicraft:shoulder_bone:13, Parasaurolophus Shoulder Bones
-jurassicraft:shoulder_bone:19, Triceratops Shoulder Bones
-jurassicraft:shoulder_bone:20, Tyrannosaurus Shoulder Bones
-jurassicraft:shoulder_bone:0, Velociraptor Shoulder Bones
-jurassicraft:plant_fossil, Plant Fossil
-jurassicraft:calamites_double_slab:0, Calamites Slab
-jurassicraft:cleaning_station, Cleaning Station
-jurassicraft:foot_bones_fresh:9, Fresh Gallimimus Foot Bones
-jurassicraft:foot_bones_fresh:2, Fresh Microraptor Foot Bones
-jurassicraft:foot_bones_fresh:20, Fresh Tyrannosaurus Foot Bones
-jurassicraft:foot_bones_fresh:0, Fresh Velociraptor Foot Bones
-jurassicraft:pelvis_fresh:3, Fresh Brachiosaurus Pelvis
-jurassicraft:pelvis_fresh:7, Fresh Dilophosaurus Pelvis
-jurassicraft:pelvis_fresh:9, Fresh Gallimimus Pelvis
-jurassicraft:pelvis_fresh:2, Fresh Microraptor Pelvis
-jurassicraft:pelvis_fresh:4, Fresh Mussaurus Pelvis
-jurassicraft:pelvis_fresh:13, Fresh Parasaurolophus Pelvis
-jurassicraft:pelvis_fresh:19, Fresh Triceratops Pelvis
-jurassicraft:pelvis_fresh:20, Fresh Tyrannosaurus Pelvis
-jurassicraft:tail_vertebrae:3, Brachiosaurus Tail Vertebrae
-jurassicraft:tail_vertebrae:7, Dilophosaurus Tail Vertebrae
-jurassicraft:tail_vertebrae:9, Gallimimus Tail Vertebrae
-jurassicraft:tail_vertebrae:2, Microraptor Tail Vertebrae
-jurassicraft:tail_vertebrae:4, Mussaurus Tail Vertebrae
-jurassicraft:tail_vertebrae:13, Parasaurolophus Tail Vertebrae
-jurassicraft:tail_vertebrae:19, Triceratops Tail Vertebrae
-jurassicraft:tail_vertebrae:20, Tyrannosaurus Tail Vertebrae
-jurassicraft:tail_vertebrae:0, Velociraptor Tail Vertebrae
-jurassicraft:engine_system, Engine System
-jurassicraft:encased_nest_fossil:0, Encased Fossilized Nest
-jurassicraft:encased_nest_fossil:1, Encased Fossilized Nest
-jurassicraft:encased_nest_fossil:2, Encased Fossilized Nest
-jurassicraft:pectoral_fin_bones_fresh:1, Fresh Coelacanth Pectoral Fin Bones
-jurassicraft:field_guide, InGen Field Guide
-jurassicraft:twig_fossil, Twig Fossil
-jurassicraft:gypsum_cobblestone, Gypsum Cobblestone
-jurassicraft:largestipule_leather_root, Largestipule Leather-root
-jurassicraft:rhamnus_salicifolius_berries, Rhamnus Salicifolius Berries
-jurassicraft:fossil_grinder, Fossil Grinder
-jurassicraft:psaronius_door, Psaronius Door
-jurassicraft:foot_bones:9, Gallimimus Foot Bones
-jurassicraft:foot_bones:2, Microraptor Foot Bones
-jurassicraft:foot_bones:20, Tyrannosaurus Foot Bones
-jurassicraft:foot_bones:0, Velociraptor Foot Bones
-jurassicraft:teeth_fresh:1, Fresh Coelacanth Teeth
-jurassicraft:teeth_fresh:4, Fresh Mussaurus Teeth
-jurassicraft:teeth_fresh:13, Fresh Parasaurolophus Teeth
-jurassicraft:gypsum_powder, Gypsum Powder
-jurassicraft:skull_display_block, tile.skull_display_block.name
-jurassicraft:amber_cane, Amber Cane
-jurassicraft:horn:19, Triceratops Horn
-jurassicraft:bug_crate, Bug Farming Crate
-jurassicraft:iron_rod, Iron Rod
-jurassicraft:phoenix_door, Phoenix Door
-jurassicraft:arm_bones_fresh:7, Fresh Dilophosaurus Arm Bones
-jurassicraft:arm_bones_fresh:9, Fresh Gallimimus Arm Bones
-jurassicraft:arm_bones_fresh:2, Fresh Microraptor Arm Bones
-jurassicraft:arm_bones_fresh:4, Fresh Mussaurus Arm Bones
-jurassicraft:arm_bones_fresh:20, Fresh Tyrannosaurus Arm Bones
-jurassicraft:arm_bones_fresh:0, Fresh Velociraptor Arm Bones
-jurassicraft:phoenix_seeds, Phoenix Seeds
-jurassicraft:car_seats, Car Seats
-jurassicraft:psaronius_stairs, Psaronius Stairs
-jurassicraft:fine_net, Fine Net
-jurassicraft:araucaria_door_item, Araucaria Door
 jurassicraft:phoenix_sapling, Phoenix Sapling
-jurassicraft:pelvic_fin_bones_fresh:1, Fresh Coelacanth Pelvic Fin Bones
-jurassicraft:ajuginucula_smithii, Ajuginucula Smithii
-jurassicraft:small_chain_fern, Chain Fern
-jurassicraft:ginkgo_slab:0, Ginkgo Slab
-jurassicraft:calamites_door, Calamites Door
-jurassicraft:neck_vertebrae:3, Brachiosaurus Neck Vertebrae
-jurassicraft:neck_vertebrae:9, Gallimimus Neck Vertebrae
-jurassicraft:neck_vertebrae:2, Microraptor Neck Vertebrae
-jurassicraft:neck_vertebrae:4, Mussaurus Neck Vertebrae
-jurassicraft:neck_vertebrae:13, Parasaurolophus Neck Vertebrae
-jurassicraft:neck_vertebrae:19, Triceratops Neck Vertebrae
-jurassicraft:neck_vertebrae:20, Tyrannosaurus Neck Vertebrae
-jurassicraft:neck_vertebrae:0, Velociraptor Neck Vertebrae
-jurassicraft:pregnancy_test, Pregnancy Test
-jurassicraft:mealworm_beetles, Mealworm Beetles
-jurassicraft:first_dorsal_fin_fresh:1, Fresh Coelacanth First Dorsal Fin
-jurassicraft:phoenix_fence_gate, Phoenix Fence Gate
-jurassicraft:scaly_tree_fern, Scaly Tree Fern
-jurassicraft:dino_spawn_egg:3, Spawn Brachiosaurus
-jurassicraft:dino_spawn_egg:1, Spawn Coelacanth
-jurassicraft:dino_spawn_egg:7, Spawn Dilophosaurus
-jurassicraft:dino_spawn_egg:9, Spawn Gallimimus
-jurassicraft:dino_spawn_egg:2, Spawn Microraptor
-jurassicraft:dino_spawn_egg:4, Spawn Mussaurus
-jurassicraft:dino_spawn_egg:13, Spawn Parasaurolophus
-jurassicraft:dino_spawn_egg:19, Spawn Triceratops
-jurassicraft:dino_spawn_egg:20, Spawn Tyrannosaurus
-jurassicraft:dino_spawn_egg:0, Spawn Velociraptor
-jurassicraft:psaronius_double_slab:0, Psaronius Slab
-jurassicraft:raphaelia, Raphaelia
-jurassicraft:low_security_fence_pole, Low Security Fence Pole
-jurassicraft:cultivate_bottom:0, White Cultivator
-jurassicraft:cultivate_bottom:1, Orange Cultivator
-jurassicraft:cultivate_bottom:2, Magenta Cultivator
-jurassicraft:cultivate_bottom:3, Light Blue Cultivator
-jurassicraft:cultivate_bottom:4, Yellow Cultivator
-jurassicraft:cultivate_bottom:5, Lime Cultivator
-jurassicraft:cultivate_bottom:6, Pink Cultivator
-jurassicraft:cultivate_bottom:7, Gray Cultivator
-jurassicraft:cultivate_bottom:8, Light Gray Cultivator
-jurassicraft:cultivate_bottom:9, Cyan Cultivator
-jurassicraft:cultivate_bottom:10, Purple Cultivator
-jurassicraft:cultivate_bottom:11, Blue Cultivator
-jurassicraft:cultivate_bottom:12, Brown Cultivator
-jurassicraft:cultivate_bottom:13, Green Cultivator
-jurassicraft:cultivate_bottom:14, Red Cultivator
-jurassicraft:cultivate_bottom:15, Black Cultivator
-jurassicraft:liriodendrites, Liriodendrites
-jurassicraft:aulopora, tile.aulopora.name
-jurassicraft:low_security_fence_base, Low Security Fence Base
-jurassicraft:dna_analyzer, DNA Analyzer
-jurassicraft:calamites_sapling, Calamites Sapling
+jurassicraft:growth_serum, Growth Serum
 jurassicraft:skull:3, Brachiosaurus Skull
 jurassicraft:skull:1, Coelacanth Skull
 jurassicraft:skull:7, Dilophosaurus Skull
@@ -19624,106 +18836,26 @@ jurassicraft:skull:13, Parasaurolophus Skull
 jurassicraft:skull:19, Triceratops Skull
 jurassicraft:skull:20, Tyrannosaurus Skull
 jurassicraft:skull:0, Velociraptor Skull
-jurassicraft:disc_troodons_and_raptors, JurassiCraft Record
-jurassicraft:car_tire, Car Tire
-jurassicraft:cinnamon_fern, Cinnamon Fern
-jurassicraft:fun_fries, Fun Fries
-jurassicraft:ancient_item_holding_block, Ancient Item Holding Block
-jurassicraft:wild_onion_plant, Wild Onion Plant
-jurassicraft:araucaria_fence_gate, Araucaria Fence Gate
-jurassicraft:display_block_item:12, Brachiosaurus Action Figure
-jurassicraft:display_block_item:15, Brachiosaurus Fossilized Skeleton
-jurassicraft:display_block_item:13, Brachiosaurus Fresh Skeleton
-jurassicraft:display_block_item:4, Coelacanth Action Figure
-jurassicraft:display_block_item:7, Coelacanth Fossilized Skeleton
-jurassicraft:display_block_item:5, Coelacanth Fresh Skeleton
-jurassicraft:display_block_item:28, Dilophosaurus Action Figure
-jurassicraft:display_block_item:31, Dilophosaurus Fossilized Skeleton
-jurassicraft:display_block_item:29, Dilophosaurus Fresh Skeleton
-jurassicraft:display_block_item:36, Gallimimus Action Figure
-jurassicraft:display_block_item:39, Gallimimus Fossilized Skeleton
-jurassicraft:display_block_item:37, Gallimimus Fresh Skeleton
-jurassicraft:display_block_item:8, Microraptor Action Figure
-jurassicraft:display_block_item:11, Microraptor Fossilized Skeleton
-jurassicraft:display_block_item:9, Microraptor Fresh Skeleton
-jurassicraft:display_block_item:16, Mussaurus Action Figure
-jurassicraft:display_block_item:19, Mussaurus Fossilized Skeleton
-jurassicraft:display_block_item:17, Mussaurus Fresh Skeleton
-jurassicraft:display_block_item:52, Parasaurolophus Action Figure
-jurassicraft:display_block_item:55, Parasaurolophus Fossilized Skeleton
-jurassicraft:display_block_item:53, Parasaurolophus Fresh Skeleton
-jurassicraft:display_block_item:76, Triceratops Action Figure
-jurassicraft:display_block_item:79, Triceratops Fossilized Skeleton
-jurassicraft:display_block_item:77, Triceratops Fresh Skeleton
-jurassicraft:display_block_item:80, Tyrannosaurus Action Figure
-jurassicraft:display_block_item:83, Tyrannosaurus Fossilized Skeleton
-jurassicraft:display_block_item:81, Tyrannosaurus Fresh Skeleton
-jurassicraft:display_block_item:0, Velociraptor Action Figure
-jurassicraft:display_block_item:3, Velociraptor Fossilized Skeleton
-jurassicraft:display_block_item:1, Velociraptor Fresh Skeleton
-jurassicraft:calamites_slab:0, Calamites Slab
-jurassicraft:peat, Peat
-jurassicraft:mural, Mural
-jurassicraft:cycad_zamites, Zamites
-jurassicraft:encased_fossil_0:0, Encased Velociraptor Fossil
-jurassicraft:encased_fossil_0:1, Encased Coelacanth Fossil
-jurassicraft:encased_fossil_0:2, Encased Microraptor Fossil
-jurassicraft:encased_fossil_0:3, Encased Brachiosaurus Fossil
-jurassicraft:encased_fossil_0:4, Encased Mussaurus Fossil
-jurassicraft:encased_fossil_0:7, Encased Dilophosaurus Fossil
-jurassicraft:encased_fossil_0:9, Encased Gallimimus Fossil
-jurassicraft:encased_fossil_0:13, Encased Parasaurolophus Fossil
-jurassicraft:calamites_fence_gate, Calamites Fence Gate
-jurassicraft:psaronius_leaves, Psaronius Leaves
-jurassicraft:orontium_mackii, Orontium Mackii
-jurassicraft:psaronius_slab:0, Psaronius Slab
-jurassicraft:liquid_agar, Liquid Agar
-jurassicraft:calamites_door_item, Calamites Door
-jurassicraft:front_leg_bones:3, Brachiosaurus Front Leg Bones
-jurassicraft:front_leg_bones:13, Parasaurolophus Front Leg Bones
-jurassicraft:front_leg_bones:19, Triceratops Front Leg Bones
-jurassicraft:dinosaur_steak:3, Cooked Brachiosaurus Meat
-jurassicraft:dinosaur_steak:1, Cooked Coelacanth Meat
-jurassicraft:dinosaur_steak:7, Cooked Dilophosaurus Meat
-jurassicraft:dinosaur_steak:9, Cooked Gallimimus Meat
-jurassicraft:dinosaur_steak:2, Cooked Microraptor Meat
-jurassicraft:dinosaur_steak:4, Cooked Mussaurus Meat
-jurassicraft:dinosaur_steak:13, Cooked Parasaurolophus Meat
-jurassicraft:dinosaur_steak:19, Cooked Triceratops Meat
-jurassicraft:dinosaur_steak:20, Cooked Tyrannosaurus Meat
-jurassicraft:dinosaur_steak:0, Cooked Velociraptor Meat
-jurassicraft:front_leg_bones_fresh:3, Fresh Brachiosaurus Front Leg Bones
-jurassicraft:front_leg_bones_fresh:13, Fresh Parasaurolophus Front Leg Bones
-jurassicraft:front_leg_bones_fresh:19, Fresh Triceratops Front Leg Bones
+jurassicraft:araucaria_fence, Araucaria Fence
+jurassicraft:encephalartos, Encephalartos
+jurassicraft:phoenix_fruit, Phoenix Fruit
+jurassicraft:wild_potato_cooked, Cooked Wild Potato
+jurassicraft:calamites_double_slab:0, Calamites Slab
+jurassicraft:ice_shard, Ice Shard Ore
+jurassicraft:calamites_stairs, Calamites Stairs
+jurassicraft:araucaria_slab:0, Araucaria Slab
+jurassicraft:dino_scanner, Debug Dinosaur Scanner
+jurassicraft:pelvis_fresh:3, Fresh Brachiosaurus Pelvis
+jurassicraft:pelvis_fresh:7, Fresh Dilophosaurus Pelvis
+jurassicraft:pelvis_fresh:9, Fresh Gallimimus Pelvis
+jurassicraft:pelvis_fresh:2, Fresh Microraptor Pelvis
+jurassicraft:pelvis_fresh:4, Fresh Mussaurus Pelvis
+jurassicraft:pelvis_fresh:13, Fresh Parasaurolophus Pelvis
+jurassicraft:pelvis_fresh:19, Fresh Triceratops Pelvis
+jurassicraft:pelvis_fresh:20, Fresh Tyrannosaurus Pelvis
+jurassicraft:twig_fossil, Twig Fossil
 jurassicraft:lunch_box, Plastic Lunch Box
-jurassicraft:calamites_planks, Calamites Planks
-jurassicraft:phoenix_stairs, Phoenix Stairs
-jurassicraft:stylophyllopsis_coral, Stylophyllopsis
-jurassicraft:tooth_fresh:3, Fresh Brachiosaurus Tooth
-jurassicraft:tooth_fresh:7, Fresh Dilophosaurus Tooth
-jurassicraft:tooth_fresh:2, Fresh Microraptor Tooth
-jurassicraft:tooth_fresh:19, Fresh Triceratops Tooth
-jurassicraft:tooth_fresh:20, Fresh Tyrannosaurus Tooth
-jurassicraft:tooth_fresh:0, Fresh Velociraptor Tooth
-jurassicraft:dinosaur_meat:3, Brachiosaurus Meat
-jurassicraft:dinosaur_meat:1, Coelacanth Meat
-jurassicraft:dinosaur_meat:7, Dilophosaurus Meat
-jurassicraft:dinosaur_meat:9, Gallimimus Meat
-jurassicraft:dinosaur_meat:2, Microraptor Meat
-jurassicraft:dinosaur_meat:4, Mussaurus Meat
-jurassicraft:dinosaur_meat:13, Parasaurolophus Meat
-jurassicraft:dinosaur_meat:19, Triceratops Meat
-jurassicraft:dinosaur_meat:20, Tyrannosaurus Meat
-jurassicraft:dinosaur_meat:0, Velociraptor Meat
-jurassicraft:fossil_block_0:0, Velociraptor Fossil
-jurassicraft:fossil_block_0:1, Coelacanth Fossil
-jurassicraft:fossil_block_0:2, Microraptor Fossil
-jurassicraft:fossil_block_0:3, Brachiosaurus Fossil
-jurassicraft:fossil_block_0:4, Mussaurus Fossil
-jurassicraft:fossil_block_0:7, Dilophosaurus Fossil
-jurassicraft:fossil_block_0:9, Gallimimus Fossil
-jurassicraft:fossil_block_0:13, Parasaurolophus Fossil
-jurassicraft:dna_base_material, DNA Nucleotides
+jurassicraft:car_seats, Car Seats
 jurassicraft:attraction_sign:0, Aquarium Attraction Sign
 jurassicraft:attraction_sign:1, Aquarium With Coral Attraction Sign
 jurassicraft:attraction_sign:2, Aviary Attraction Sign
@@ -19742,150 +18874,25 @@ jurassicraft:attraction_sign:14, Botanical Garden With Plants Attraction Sign
 jurassicraft:attraction_sign:15, Triceratops Territorium With Plants Attraction Sign
 jurassicraft:attraction_sign:16, Tyrannosaurus Kingdom Attraction Sign
 jurassicraft:attraction_sign:17, Tyrannosaurus Kingdom With Plants Attraction Sign
-jurassicraft:dart_gun, Dart Gun
-jurassicraft:ginkgo_door_item, Ginkgo Door
-jurassicraft:ginkgo_log, Ginkgo Log
-jurassicraft:cry_pansy, Cry Pansy
-jurassicraft:aulopora_coral, Aulopora
-jurassicraft:psaronius_fence, Psaronius Fence
-jurassicraft:neck_vertebrae_fresh:3, Fresh Brachiosaurus Neck Vertebrae
-jurassicraft:neck_vertebrae_fresh:9, Fresh Gallimimus Neck Vertebrae
-jurassicraft:neck_vertebrae_fresh:2, Fresh Microraptor Neck Vertebrae
-jurassicraft:neck_vertebrae_fresh:4, Fresh Mussaurus Neck Vertebrae
-jurassicraft:neck_vertebrae_fresh:13, Fresh Parasaurolophus Neck Vertebrae
-jurassicraft:neck_vertebrae_fresh:19, Fresh Triceratops Neck Vertebrae
-jurassicraft:neck_vertebrae_fresh:20, Fresh Tyrannosaurus Neck Vertebrae
-jurassicraft:neck_vertebrae_fresh:0, Fresh Velociraptor Neck Vertebrae
-jurassicraft:moss, Moss
-jurassicraft:soft_tissue:3, Brachiosaurus Soft Tissue
-jurassicraft:soft_tissue:1, Coelacanth Soft Tissue
-jurassicraft:soft_tissue:7, Dilophosaurus Soft Tissue
-jurassicraft:soft_tissue:9, Gallimimus Soft Tissue
-jurassicraft:soft_tissue:2, Microraptor Soft Tissue
-jurassicraft:soft_tissue:4, Mussaurus Soft Tissue
-jurassicraft:soft_tissue:13, Parasaurolophus Soft Tissue
-jurassicraft:soft_tissue:19, Triceratops Soft Tissue
-jurassicraft:soft_tissue:20, Tyrannosaurus Soft Tissue
-jurassicraft:soft_tissue:0, Velociraptor Soft Tissue
-jurassicraft:gypsum_bricks, Gypsum Bricks
-jurassicraft:serenna_veriformans, Serenna Veriformans
-jurassicraft:ingen_journal:0, InGen Journal
-jurassicraft:ingen_journal:1, InGen Journal
-jurassicraft:ingen_journal:2, InGen Journal
-jurassicraft:ingen_journal:3, InGen Journal
-jurassicraft:ingen_journal:4, InGen Journal
-jurassicraft:ingen_journal:5, InGen Journal
-jurassicraft:ingen_journal:6, InGen Journal
-jurassicraft:ingen_journal:7, InGen Journal
-jurassicraft:ingen_journal:8, InGen Journal
-jurassicraft:tour_rail_slow, Slow Tour Vehicle Track
-jurassicraft:tooth:3, Brachiosaurus Tooth
-jurassicraft:tooth:7, Dilophosaurus Tooth
-jurassicraft:tooth:2, Microraptor Tooth
-jurassicraft:tooth:19, Triceratops Tooth
-jurassicraft:tooth:20, Tyrannosaurus Tooth
-jurassicraft:tooth:0, Velociraptor Tooth
-jurassicraft:ajuginucula_smithii_leaves, Ajuginucula Smithii Leaves
-jurassicraft:phoenix_door_item, Phoenix Door
-jurassicraft:second_dorsal_fin_fresh:1, Fresh Coelacanth Second Dorsal Fin
-jurassicraft:plant_callus:0, Ajuginucula Smithii Plant Callus
-jurassicraft:plant_callus:25, Araucaria Plant Callus
-jurassicraft:plant_callus:34, Aulopora Plant Callus
-jurassicraft:plant_callus:6, Cycadeoidea Plant Callus
-jurassicraft:plant_callus:27, Bristle Fern Plant Callus
-jurassicraft:plant_callus:2, Calamites Plant Callus
-jurassicraft:plant_callus:26, Cinnamon Fern Plant Callus
-jurassicraft:plant_callus:35, Cladochonus Plant Callus
-jurassicraft:plant_callus:7, Cry Pansy Plant Callus
-jurassicraft:plant_callus:9, Zamites Plant Callus
-jurassicraft:plant_callus:10, Dicksonia Plant Callus
-jurassicraft:plant_callus:12, Dicroidium Zuberi Plant Callus
-jurassicraft:plant_callus:13, Dictyophyllum Plant Callus
-jurassicraft:plant_callus:33, Enallhelia Plant Callus
-jurassicraft:plant_callus:21, Encephalartos Plant Callus
-jurassicraft:plant_callus:5, Ginkgo Plant Callus
-jurassicraft:plant_callus:32, Graminidites Bambusoides Plant Callus
-jurassicraft:plant_callus:38, Hippurites Radiosus Plant Callus
-jurassicraft:plant_callus:16, Ladinia Simplex Plant Callus
-jurassicraft:plant_callus:30, Largestipule Leather-root Plant Callus
-jurassicraft:plant_callus:19, Liriodendrites Plant Callus
-jurassicraft:plant_callus:36, Lithostrotion Plant Callus
-jurassicraft:plant_callus:17, Orontium Mackii Plant Callus
-jurassicraft:plant_callus:23, Phoenix Plant Callus
-jurassicraft:plant_callus:22, Psaronius Plant Callus
-jurassicraft:plant_callus:20, Raphaelia Plant Callus
-jurassicraft:plant_callus:31, Rhacophyton Plant Callus
-jurassicraft:plant_callus:40, Rhamnus Salifocifus Plant Callus
-jurassicraft:plant_callus:8, Scaly Tree Fern Plant Callus
-jurassicraft:plant_callus:15, Serenna Veriformans Plant Callus
-jurassicraft:plant_callus:3, Chain Fern Plant Callus
-jurassicraft:plant_callus:4, Cycad Plant Callus
-jurassicraft:plant_callus:1, Royal Fern Plant Callus
-jurassicraft:plant_callus:37, Stylophyllopsis Plant Callus
-jurassicraft:plant_callus:28, Tempskya Plant Callus
-jurassicraft:plant_callus:18, Umaltolepis Plant Callus
-jurassicraft:plant_callus:11, Wild Onion Plant Callus
-jurassicraft:plant_callus:24, Wild Potato Plant Callus
-jurassicraft:plant_callus:29, Woolly-stalked Begonia Plant Callus
-jurassicraft:advanced_circuit, Advanced Circuit
+jurassicraft:plankton_swarm, tile.plankton_swarm.name
+jurassicraft:empty_test_tube, Empty Test Tube
+jurassicraft:paddock_sign, Paddock Sign
+jurassicraft:scaly_tree_fern, Scaly Tree Fern
+jurassicraft:disc_troodons_and_raptors, JurassiCraft Record
+jurassicraft:fossil_block_0:0, Velociraptor Fossil
+jurassicraft:fossil_block_0:1, Coelacanth Fossil
+jurassicraft:fossil_block_0:2, Microraptor Fossil
+jurassicraft:fossil_block_0:3, Brachiosaurus Fossil
+jurassicraft:fossil_block_0:4, Mussaurus Fossil
+jurassicraft:fossil_block_0:7, Dilophosaurus Fossil
+jurassicraft:fossil_block_0:9, Gallimimus Fossil
+jurassicraft:fossil_block_0:13, Parasaurolophus Fossil
+jurassicraft:phoenix_double_slab:0, Phoenix Slab
+jurassicraft:west_indian_lilac, West Indian Lilac
+jurassicraft:goat_cooked, Cooked Goat
+jurassicraft:horn_fresh:19, Fresh Triceratops Horn
+jurassicraft:wild_potato, Wild Potato
 jurassicraft:krill, Krill
-jurassicraft:claw:0, Velociraptor Claw
-jurassicraft:growth_serum, Growth Serum
-jurassicraft:plant_cells, Plant Cells
-jurassicraft:ajuginucula_smithii_oil, Ajuginucula Smithii Oil
-jurassicraft:stylophyllopsis, tile.stylophyllopsis.name
-jurassicraft:ribcage_fresh:3, Fresh Brachiosaurus Ribcage
-jurassicraft:ribcage_fresh:7, Fresh Dilophosaurus Ribcage
-jurassicraft:ribcage_fresh:9, Fresh Gallimimus Ribcage
-jurassicraft:ribcage_fresh:2, Fresh Microraptor Ribcage
-jurassicraft:ribcage_fresh:4, Fresh Mussaurus Ribcage
-jurassicraft:ribcage_fresh:13, Fresh Parasaurolophus Ribcage
-jurassicraft:ribcage_fresh:19, Fresh Triceratops Ribcage
-jurassicraft:ribcage_fresh:20, Fresh Tyrannosaurus Ribcage
-jurassicraft:ribcage_fresh:0, Fresh Velociraptor Ribcage
-jurassicraft:calamites_leaves, Calamites Leaves
-jurassicraft:dna:3, Brachiosaurus DNA
-jurassicraft:dna:1, Coelacanth DNA
-jurassicraft:dna:7, Dilophosaurus DNA
-jurassicraft:dna:9, Gallimimus DNA
-jurassicraft:dna:2, Microraptor DNA
-jurassicraft:dna:4, Mussaurus DNA
-jurassicraft:dna:13, Parasaurolophus DNA
-jurassicraft:dna:19, Triceratops DNA
-jurassicraft:dna:20, Tyrannosaurus DNA
-jurassicraft:dna:0, Velociraptor DNA
-jurassicraft:breeding_wand, Breeding Wand
-jurassicraft:phoenix_planks, Phoenix Planks
-jurassicraft:ice_shard, Ice Shard Ore
-jurassicraft:storage_disc, Storage Disc
-jurassicraft:stamp_set, Stamp Set
-jurassicraft:phoenix_log_petrified, Petrified Phoenix Log
-jurassicraft:west_indian_lilac_berries:0, West Indian Lilac Berries
-jurassicraft:dart_tipped_potion, Potion Dart
-jurassicraft:hind_leg_bones_fresh:3, Fresh Brachiosaurus Hind Leg Bones
-jurassicraft:hind_leg_bones_fresh:13, Fresh Parasaurolophus Hind Leg Bones
-jurassicraft:hind_leg_bones_fresh:19, Fresh Triceratops Hind Leg Bones
-jurassicraft:empty_syringe, Empty Syringe
-jurassicraft:ginkgo_planks, Ginkgo Planks
-jurassicraft:rhamnus_salicifolius_seeds, Rhamnus Salicifolius Seeds
-jurassicraft:araucaria_stairs, Araucaria Stairs
-jurassicraft:teeth:1, Coelacanth Teeth
-jurassicraft:teeth:4, Mussaurus Teeth
-jurassicraft:teeth:13, Parasaurolophus Teeth
-jurassicraft:ginkgo_sapling, Ginkgo Sapling
-jurassicraft:heliconia, Heliconia
-jurassicraft:dino_scanner, Debug Dinosaur Scanner
-jurassicraft:neck_fresh:7, Fresh Dilophosaurus Neck
-jurassicraft:enallhelia_coral, Enallhelia
-jurassicraft:hippurites_radiosus_coral, Hippurites Radiosus
-jurassicraft:caudal_fin_fresh:1, Fresh Coelacanth Caudal Fin
-jurassicraft:leg_bones:7, Dilophosaurus Leg Bones
-jurassicraft:leg_bones:9, Gallimimus Leg Bones
-jurassicraft:leg_bones:2, Microraptor Leg Bones
-jurassicraft:leg_bones:4, Mussaurus Leg Bones
-jurassicraft:leg_bones:20, Tyrannosaurus Leg Bones
-jurassicraft:leg_bones:0, Velociraptor Leg Bones
-jurassicraft:crickets, Crickets
 jurassicraft:dino_egg:3, Brachiosaurus Egg
 jurassicraft:dino_egg:7, Dilophosaurus Egg
 jurassicraft:dino_egg:9, Gallimimus Egg
@@ -19895,34 +18902,8 @@ jurassicraft:dino_egg:13, Parasaurolophus Egg
 jurassicraft:dino_egg:19, Triceratops Egg
 jurassicraft:dino_egg:20, Tyrannosaurus Egg
 jurassicraft:dino_egg:0, Velociraptor Egg
-jurassicraft:tracker, Dinosaur Tracking Implant
-jurassicraft:disc_reader, Disc Drive
-jurassicraft:plankton_swarm, tile.plankton_swarm.name
-jurassicraft:phoenix_fruit, Phoenix Fruit
-jurassicraft:dna_extractor, DNA Extractor
-jurassicraft:araucaria_slab:0, Araucaria Slab
-jurassicraft:araucaria_leaves, Araucaria Leaves
-jurassicraft:phoenix_leaves, Phoenix Leaves
-jurassicraft:reinforced_glass, Reinforced Glass
-jurassicraft:dna_sequencer, DNA Sequencer
-jurassicraft:gypsum_stone, Gypsum Stone
-jurassicraft:calamites_stairs, Calamites Stairs
-jurassicraft:paleo_bale_other, Prehistoric Plant Bale
-jurassicraft:oiled_potato_strips, Oiled Potato Strips
-jurassicraft:spine:1, Coelacanth Spine
-jurassicraft:anal_fin:1, Coelacanth Anal Fin
-jurassicraft:incubator, Incubator
-jurassicraft:iron_blades, Iron Blades
-jurassicraft:umaltolepis, Umaltolepis
-jurassicraft:pectoral_fin_bones:1, Coelacanth Pectoral Fin Bones
-jurassicraft:display_block, tile.display_block.name
-jurassicraft:araucaria_fence, Araucaria Fence
-jurassicraft:ajuginucula_smithii_seeds, Ajuginucula Smithii Seeds
-jurassicraft:phoenix_double_slab:0, Phoenix Slab
-jurassicraft:nest_fossil:0, Fossilized Nest
-jurassicraft:nest_fossil:1, Fossilized Nest
-jurassicraft:nest_fossil:2, Fossilized Nest
-jurassicraft:rhacophyton, Rhacophyton
+jurassicraft:encased_fossil_1:3, Encased Triceratops Fossil
+jurassicraft:encased_fossil_1:4, Encased Tyrannosaurus Fossil
 jurassicraft:plant_dna:0, Ajuginucula Smithii DNA
 jurassicraft:plant_dna:25, Araucaria DNA
 jurassicraft:plant_dna:34, Aulopora DNA
@@ -19962,24 +18943,70 @@ jurassicraft:plant_dna:18, Umaltolepis DNA
 jurassicraft:plant_dna:11, Wild Onion DNA
 jurassicraft:plant_dna:24, Wild Potato DNA
 jurassicraft:plant_dna:29, Woolly-stalked Begonia DNA
-jurassicraft:tour_rail_fast, Fast Tour Vehicle Track
-jurassicraft:calamites_log_petrified, Petrified Calamites Log
-jurassicraft:reinforced_bricks, Reinforced Bricks
-jurassicraft:hind_leg_bones:3, Brachiosaurus Hind Leg Bones
-jurassicraft:hind_leg_bones:13, Parasaurolophus Hind Leg Bones
-jurassicraft:hind_leg_bones:19, Triceratops Hind Leg Bones
-jurassicraft:disc_dont_move_a_muscle, JurassiCraft Record
-jurassicraft:wild_potato, Wild Potato
-jurassicraft:psaronius_door_item, Psaronius Door
-jurassicraft:goat_cooked, Cooked Goat
-jurassicraft:arm_bones:7, Dilophosaurus Arm Bones
-jurassicraft:arm_bones:9, Gallimimus Arm Bones
-jurassicraft:arm_bones:2, Microraptor Arm Bones
-jurassicraft:arm_bones:4, Mussaurus Arm Bones
-jurassicraft:arm_bones:20, Tyrannosaurus Arm Bones
-jurassicraft:arm_bones:0, Velociraptor Arm Bones
-jurassicraft:phoenix_fence, Phoenix Fence
-jurassicraft:wild_potato_plant, Wild Potato Plant
+jurassicraft:plant_cells, Plant Cells
+jurassicraft:hippurites_radiosus_coral, Hippurites Radiosus
+jurassicraft:plant_soft_tissue:0, Ajuginucula Smithii Soft Tissue
+jurassicraft:plant_soft_tissue:25, Araucaria Soft Tissue
+jurassicraft:plant_soft_tissue:34, Aulopora Soft Tissue
+jurassicraft:plant_soft_tissue:6, Cycadeoidea Soft Tissue
+jurassicraft:plant_soft_tissue:27, Bristle Fern Soft Tissue
+jurassicraft:plant_soft_tissue:2, Calamites Soft Tissue
+jurassicraft:plant_soft_tissue:26, Cinnamon Fern Soft Tissue
+jurassicraft:plant_soft_tissue:35, Cladochonus Soft Tissue
+jurassicraft:plant_soft_tissue:7, Cry Pansy Soft Tissue
+jurassicraft:plant_soft_tissue:9, Zamites Soft Tissue
+jurassicraft:plant_soft_tissue:10, Dicksonia Soft Tissue
+jurassicraft:plant_soft_tissue:12, Dicroidium Zuberi Soft Tissue
+jurassicraft:plant_soft_tissue:13, Dictyophyllum Soft Tissue
+jurassicraft:plant_soft_tissue:33, Enallhelia Soft Tissue
+jurassicraft:plant_soft_tissue:21, Encephalartos Soft Tissue
+jurassicraft:plant_soft_tissue:5, Ginkgo Soft Tissue
+jurassicraft:plant_soft_tissue:32, Graminidites Bambusoides Soft Tissue
+jurassicraft:plant_soft_tissue:38, Hippurites Radiosus Soft Tissue
+jurassicraft:plant_soft_tissue:16, Ladinia Simplex Soft Tissue
+jurassicraft:plant_soft_tissue:30, Largestipule Leather-root Soft Tissue
+jurassicraft:plant_soft_tissue:19, Liriodendrites Soft Tissue
+jurassicraft:plant_soft_tissue:36, Lithostrotion Soft Tissue
+jurassicraft:plant_soft_tissue:17, Orontium Mackii Soft Tissue
+jurassicraft:plant_soft_tissue:23, Phoenix Soft Tissue
+jurassicraft:plant_soft_tissue:22, Psaronius Soft Tissue
+jurassicraft:plant_soft_tissue:20, Raphaelia Soft Tissue
+jurassicraft:plant_soft_tissue:31, Rhacophyton Soft Tissue
+jurassicraft:plant_soft_tissue:40, Rhamnus Salifocifus Soft Tissue
+jurassicraft:plant_soft_tissue:8, Scaly Tree Fern Soft Tissue
+jurassicraft:plant_soft_tissue:15, Serenna Veriformans Soft Tissue
+jurassicraft:plant_soft_tissue:3, Chain Fern Soft Tissue
+jurassicraft:plant_soft_tissue:4, Cycad Soft Tissue
+jurassicraft:plant_soft_tissue:1, Royal Fern Soft Tissue
+jurassicraft:plant_soft_tissue:37, Stylophyllopsis Soft Tissue
+jurassicraft:plant_soft_tissue:28, Tempskya Soft Tissue
+jurassicraft:plant_soft_tissue:18, Umaltolepis Soft Tissue
+jurassicraft:plant_soft_tissue:11, Wild Onion Soft Tissue
+jurassicraft:plant_soft_tissue:24, Wild Potato Soft Tissue
+jurassicraft:plant_soft_tissue:29, Woolly-stalked Begonia Soft Tissue
+jurassicraft:dart_gun, Dart Gun
+jurassicraft:hatched_egg:0, Hatched Velociraptor Egg
+jurassicraft:horn:19, Triceratops Horn
+jurassicraft:mr_dna_keychain, Mr DNA Keychain
+jurassicraft:ginkgo_slab:0, Ginkgo Slab
+jurassicraft:largestipule_leather_root, Largestipule Leather-root
+jurassicraft:lithostrotion, tile.lithostrotion.name
+jurassicraft:ginkgo_log, Ginkgo Log
+jurassicraft:dinosaur_meat:3, Brachiosaurus Meat
+jurassicraft:dinosaur_meat:1, Coelacanth Meat
+jurassicraft:dinosaur_meat:7, Dilophosaurus Meat
+jurassicraft:dinosaur_meat:9, Gallimimus Meat
+jurassicraft:dinosaur_meat:2, Microraptor Meat
+jurassicraft:dinosaur_meat:4, Mussaurus Meat
+jurassicraft:dinosaur_meat:13, Parasaurolophus Meat
+jurassicraft:dinosaur_meat:19, Triceratops Meat
+jurassicraft:dinosaur_meat:20, Tyrannosaurus Meat
+jurassicraft:dinosaur_meat:0, Velociraptor Meat
+jurassicraft:calamites_door, Calamites Door
+jurassicraft:graminidites_bambusoides, Graminidites Bambusoides
+jurassicraft:first_dorsal_fin_fresh:1, Fresh Coelacanth First Dorsal Fin
+jurassicraft:gypsum_stone, Gypsum Stone
+jurassicraft:plant_fossil, Plant Fossil
 jurassicraft:skull_fresh:3, Fresh Brachiosaurus Skull
 jurassicraft:skull_fresh:1, Fresh Coelacanth Skull
 jurassicraft:skull_fresh:7, Fresh Dilophosaurus Skull
@@ -19990,22 +19017,460 @@ jurassicraft:skull_fresh:13, Fresh Parasaurolophus Skull
 jurassicraft:skull_fresh:19, Fresh Triceratops Skull
 jurassicraft:skull_fresh:20, Fresh Tyrannosaurus Skull
 jurassicraft:skull_fresh:0, Fresh Velociraptor Skull
-jurassicraft:graminidites_bambusoides, Graminidites Bambusoides
-jurassicraft:keyboard, Keyboard
+jurassicraft:amber_cane, Amber Cane
+jurassicraft:dicroidium_zuberi, Dicroidium Zuberi
+jurassicraft:storage_disc, Storage Disc
+jurassicraft:tracker, Dinosaur Tracking Implant
+jurassicraft:car_windscreen, Car Windscreen
+jurassicraft:phoenix_fence, Phoenix Fence
+jurassicraft:mural, Mural
+jurassicraft:dna_sequencer, DNA Sequencer
+jurassicraft:goat_raw, Raw Goat
+jurassicraft:chilean_sea_bass, Chilean Sea Bass
+jurassicraft:iron_rod, Iron Rod
+jurassicraft:wild_potato_plant, Wild Potato Plant
+jurassicraft:ribcage_fresh:3, Fresh Brachiosaurus Ribcage
+jurassicraft:ribcage_fresh:7, Fresh Dilophosaurus Ribcage
+jurassicraft:ribcage_fresh:9, Fresh Gallimimus Ribcage
+jurassicraft:ribcage_fresh:2, Fresh Microraptor Ribcage
+jurassicraft:ribcage_fresh:4, Fresh Mussaurus Ribcage
+jurassicraft:ribcage_fresh:13, Fresh Parasaurolophus Ribcage
+jurassicraft:ribcage_fresh:19, Fresh Triceratops Ribcage
+jurassicraft:ribcage_fresh:20, Fresh Tyrannosaurus Ribcage
+jurassicraft:ribcage_fresh:0, Fresh Velociraptor Ribcage
+jurassicraft:low_security_fence_wire, Low Security Fence Wire
+jurassicraft:ajuginucula_smithii_seeds, Ajuginucula Smithii Seeds
+jurassicraft:ginkgo_fence, Ginkgo Fence
+jurassicraft:rhamnus_salicifolius_seeds, Rhamnus Salicifolius Seeds
+jurassicraft:araucaria_fence_gate, Araucaria Fence Gate
+jurassicraft:phoenix_stairs, Phoenix Stairs
+jurassicraft:araucaria_double_slab:0, Araucaria Slab
+jurassicraft:computer_screen, Computer Screen
+jurassicraft:calamites_door_item, Calamites Door
+jurassicraft:neck_vertebrae:3, Brachiosaurus Neck Vertebrae
+jurassicraft:neck_vertebrae:9, Gallimimus Neck Vertebrae
+jurassicraft:neck_vertebrae:2, Microraptor Neck Vertebrae
+jurassicraft:neck_vertebrae:4, Mussaurus Neck Vertebrae
+jurassicraft:neck_vertebrae:13, Parasaurolophus Neck Vertebrae
+jurassicraft:neck_vertebrae:19, Triceratops Neck Vertebrae
+jurassicraft:neck_vertebrae:20, Tyrannosaurus Neck Vertebrae
+jurassicraft:neck_vertebrae:0, Velociraptor Neck Vertebrae
+jurassicraft:low_security_fence_base, Low Security Fence Base
+jurassicraft:clear_glass, Clear Glass
+jurassicraft:hind_leg_bones:3, Brachiosaurus Hind Leg Bones
+jurassicraft:hind_leg_bones:13, Parasaurolophus Hind Leg Bones
+jurassicraft:hind_leg_bones:19, Triceratops Hind Leg Bones
+jurassicraft:liquid_agar, Liquid Agar
+jurassicraft:serenna_veriformans, Serenna Veriformans
+jurassicraft:calamites_fence_gate, Calamites Fence Gate
+jurassicraft:ajuginucula_smithii_leaves, Ajuginucula Smithii Leaves
+jurassicraft:dart_poison_cycasin, Poisoned Dart
 jurassicraft:ginkgo_log_petrified, Petrified Ginkgo Log
+jurassicraft:ginkgo_fence_gate, Ginkgo Fence Gate
+jurassicraft:car_tire, Car Tire
+jurassicraft:cycad_zamites, Zamites
+jurassicraft:psaronius_double_slab:0, Psaronius Slab
+jurassicraft:tempskya, Tempskya
+jurassicraft:plant_callus:0, Ajuginucula Smithii Plant Callus
+jurassicraft:plant_callus:25, Araucaria Plant Callus
+jurassicraft:plant_callus:34, Aulopora Plant Callus
+jurassicraft:plant_callus:6, Cycadeoidea Plant Callus
+jurassicraft:plant_callus:27, Bristle Fern Plant Callus
+jurassicraft:plant_callus:2, Calamites Plant Callus
+jurassicraft:plant_callus:26, Cinnamon Fern Plant Callus
+jurassicraft:plant_callus:35, Cladochonus Plant Callus
+jurassicraft:plant_callus:7, Cry Pansy Plant Callus
+jurassicraft:plant_callus:9, Zamites Plant Callus
+jurassicraft:plant_callus:10, Dicksonia Plant Callus
+jurassicraft:plant_callus:12, Dicroidium Zuberi Plant Callus
+jurassicraft:plant_callus:13, Dictyophyllum Plant Callus
+jurassicraft:plant_callus:33, Enallhelia Plant Callus
+jurassicraft:plant_callus:21, Encephalartos Plant Callus
+jurassicraft:plant_callus:5, Ginkgo Plant Callus
+jurassicraft:plant_callus:32, Graminidites Bambusoides Plant Callus
+jurassicraft:plant_callus:38, Hippurites Radiosus Plant Callus
+jurassicraft:plant_callus:16, Ladinia Simplex Plant Callus
+jurassicraft:plant_callus:30, Largestipule Leather-root Plant Callus
+jurassicraft:plant_callus:19, Liriodendrites Plant Callus
+jurassicraft:plant_callus:36, Lithostrotion Plant Callus
+jurassicraft:plant_callus:17, Orontium Mackii Plant Callus
+jurassicraft:plant_callus:23, Phoenix Plant Callus
+jurassicraft:plant_callus:22, Psaronius Plant Callus
+jurassicraft:plant_callus:20, Raphaelia Plant Callus
+jurassicraft:plant_callus:31, Rhacophyton Plant Callus
+jurassicraft:plant_callus:40, Rhamnus Salifocifus Plant Callus
+jurassicraft:plant_callus:8, Scaly Tree Fern Plant Callus
+jurassicraft:plant_callus:15, Serenna Veriformans Plant Callus
+jurassicraft:plant_callus:3, Chain Fern Plant Callus
+jurassicraft:plant_callus:4, Cycad Plant Callus
+jurassicraft:plant_callus:1, Royal Fern Plant Callus
+jurassicraft:plant_callus:37, Stylophyllopsis Plant Callus
+jurassicraft:plant_callus:28, Tempskya Plant Callus
+jurassicraft:plant_callus:18, Umaltolepis Plant Callus
+jurassicraft:plant_callus:11, Wild Onion Plant Callus
+jurassicraft:plant_callus:24, Wild Potato Plant Callus
+jurassicraft:plant_callus:29, Woolly-stalked Begonia Plant Callus
+jurassicraft:ajuginucula_smithii_oil, Ajuginucula Smithii Oil
+jurassicraft:psaronius_slab:0, Psaronius Slab
+jurassicraft:gracilaria_seaweed, Gracilaria Plant
 jurassicraft:basic_circuit, Basic Circuit
-jurassicraft:cladochonus_coral, Cladochonus
-jurassicraft:ginkgo_double_slab:0, Ginkgo Slab
-jurassicraft:ginkgo_stairs, Ginkgo Stairs
-jurassicraft:dictyophyllum, Dictyophyllum
-jurassicraft:neck:7, Dilophosaurus Neck
-jurassicraft:araucaria_planks, Araucaria Planks
-jurassicraft:second_dorsal_fin:1, Coelacanth Second Dorsal Fin
-jurassicraft:dart_tranquilizer, Dart Tranquilizer
+jurassicraft:unfinished_car, Unfinished Car
+jurassicraft:crickets, Crickets
 jurassicraft:reinforced_glass_pane, Reinforced Glass Pane
-jurassicraft:small_royal_fern, Royal Fern
-jurassicraft:amber_keychain, Amber Keychain
+jurassicraft:neck_fresh:7, Fresh Dilophosaurus Neck
+jurassicraft:psaronius_leaves, Psaronius Leaves
+jurassicraft:dart_tipped_potion, Potion Dart
+jurassicraft:field_guide, InGen Field Guide
+jurassicraft:pelvic_fin_bones:1, Coelacanth Pelvic Fin Bones
+jurassicraft:stylophyllopsis, tile.stylophyllopsis.name
+jurassicraft:anal_fin_fresh:1, Fresh Coelacanth Anal Fin
+jurassicraft:araucaria_sapling, Araucaria Sapling
+jurassicraft:orontium_mackii, Orontium Mackii
+jurassicraft:tail_vertebrae:3, Brachiosaurus Tail Vertebrae
+jurassicraft:tail_vertebrae:7, Dilophosaurus Tail Vertebrae
+jurassicraft:tail_vertebrae:9, Gallimimus Tail Vertebrae
+jurassicraft:tail_vertebrae:2, Microraptor Tail Vertebrae
+jurassicraft:tail_vertebrae:4, Mussaurus Tail Vertebrae
+jurassicraft:tail_vertebrae:13, Parasaurolophus Tail Vertebrae
+jurassicraft:tail_vertebrae:19, Triceratops Tail Vertebrae
+jurassicraft:tail_vertebrae:20, Tyrannosaurus Tail Vertebrae
+jurassicraft:tail_vertebrae:0, Velociraptor Tail Vertebrae
+jurassicraft:bennettitalean_cycadeoidea, Cycadeoidea
+jurassicraft:cinnamon_fern, Cinnamon Fern
+jurassicraft:fossil_grinder, Fossil Grinder
+jurassicraft:shoulder_fresh:3, Fresh Brachiosaurus Shoulder
+jurassicraft:shoulder_fresh:7, Fresh Dilophosaurus Shoulder
+jurassicraft:shoulder_fresh:9, Fresh Gallimimus Shoulder
+jurassicraft:shoulder_fresh:2, Fresh Microraptor Shoulder
+jurassicraft:shoulder_fresh:4, Fresh Mussaurus Shoulder
+jurassicraft:ajuginucula_smithii, Ajuginucula Smithii
+jurassicraft:birthing_wand, Birthing Wand
+jurassicraft:rhamnus_salicifolius_berries, Rhamnus Salicifolius Berries
+jurassicraft:dicksonia, Dicksonia
+jurassicraft:reinforced_glass, Reinforced Glass
+jurassicraft:laser, Laser
+jurassicraft:disc_jurassicraft_theme, JurassiCraft Record
+jurassicraft:ginkgo_door, Ginkgo Door
+jurassicraft:incubator, Incubator
+jurassicraft:araucaria_planks, Araucaria Planks
+jurassicraft:neck_vertebrae_fresh:3, Fresh Brachiosaurus Neck Vertebrae
+jurassicraft:neck_vertebrae_fresh:9, Fresh Gallimimus Neck Vertebrae
+jurassicraft:neck_vertebrae_fresh:2, Fresh Microraptor Neck Vertebrae
+jurassicraft:neck_vertebrae_fresh:4, Fresh Mussaurus Neck Vertebrae
+jurassicraft:neck_vertebrae_fresh:13, Fresh Parasaurolophus Neck Vertebrae
+jurassicraft:neck_vertebrae_fresh:19, Fresh Triceratops Neck Vertebrae
+jurassicraft:neck_vertebrae_fresh:20, Fresh Tyrannosaurus Neck Vertebrae
+jurassicraft:neck_vertebrae_fresh:0, Fresh Velociraptor Neck Vertebrae
+jurassicraft:liriodendrites, Liriodendrites
+jurassicraft:ancient_item_holding_block, Ancient Item Holding Block
+jurassicraft:keyboard, Keyboard
+jurassicraft:dinosaur_steak:3, Cooked Brachiosaurus Meat
+jurassicraft:dinosaur_steak:1, Cooked Coelacanth Meat
+jurassicraft:dinosaur_steak:7, Cooked Dilophosaurus Meat
+jurassicraft:dinosaur_steak:9, Cooked Gallimimus Meat
+jurassicraft:dinosaur_steak:2, Cooked Microraptor Meat
+jurassicraft:dinosaur_steak:4, Cooked Mussaurus Meat
+jurassicraft:dinosaur_steak:13, Cooked Parasaurolophus Meat
+jurassicraft:dinosaur_steak:19, Cooked Triceratops Meat
+jurassicraft:dinosaur_steak:20, Cooked Tyrannosaurus Meat
+jurassicraft:dinosaur_steak:0, Cooked Velociraptor Meat
+jurassicraft:petri_dish_agar, Petri Dish With Agar
+jurassicraft:psaronius_planks, Psaronius Planks
+jurassicraft:psaronius_log_petrified, Petrified Psaronius Log
+jurassicraft:cultivate_top:0, White Cultivator
+jurassicraft:cultivate_top:1, Orange Cultivator
+jurassicraft:cultivate_top:2, Magenta Cultivator
+jurassicraft:cultivate_top:3, Light Blue Cultivator
+jurassicraft:cultivate_top:4, Yellow Cultivator
+jurassicraft:cultivate_top:5, Lime Cultivator
+jurassicraft:cultivate_top:6, Pink Cultivator
+jurassicraft:cultivate_top:7, Gray Cultivator
+jurassicraft:cultivate_top:8, Light Gray Cultivator
+jurassicraft:cultivate_top:9, Cyan Cultivator
+jurassicraft:cultivate_top:10, Purple Cultivator
+jurassicraft:cultivate_top:11, Blue Cultivator
+jurassicraft:cultivate_top:12, Brown Cultivator
+jurassicraft:cultivate_top:13, Green Cultivator
+jurassicraft:cultivate_top:14, Red Cultivator
+jurassicraft:cultivate_top:15, Black Cultivator
+jurassicraft:dna_extractor, DNA Extractor
+jurassicraft:fossilized_egg:0, Fossilized Egg
+jurassicraft:fossilized_egg:1, Fossilized Egg
+jurassicraft:fossilized_egg:2, Fossilized Egg
+jurassicraft:calamites_slab:0, Calamites Slab
+jurassicraft:teeth_fresh:1, Fresh Coelacanth Teeth
+jurassicraft:teeth_fresh:4, Fresh Mussaurus Teeth
+jurassicraft:teeth_fresh:13, Fresh Parasaurolophus Teeth
+jurassicraft:arm_bones_fresh:7, Fresh Dilophosaurus Arm Bones
+jurassicraft:arm_bones_fresh:9, Fresh Gallimimus Arm Bones
+jurassicraft:arm_bones_fresh:2, Fresh Microraptor Arm Bones
+jurassicraft:arm_bones_fresh:4, Fresh Mussaurus Arm Bones
+jurassicraft:arm_bones_fresh:20, Fresh Tyrannosaurus Arm Bones
+jurassicraft:arm_bones_fresh:0, Fresh Velociraptor Arm Bones
+jurassicraft:calamites_log, Calamites Log
+jurassicraft:reinforced_bricks, Reinforced Bricks
+jurassicraft:plant_fossil_block, Plant Fossil
+jurassicraft:shoulder_bone:13, Parasaurolophus Shoulder Bones
+jurassicraft:shoulder_bone:19, Triceratops Shoulder Bones
+jurassicraft:shoulder_bone:20, Tyrannosaurus Shoulder Bones
+jurassicraft:shoulder_bone:0, Velociraptor Shoulder Bones
+jurassicraft:breeding_wand, Breeding Wand
 jurassicraft:plankton, Plankton
+jurassicraft:phoenix_seeds, Phoenix Seeds
+jurassicraft:calamites_planks, Calamites Planks
+jurassicraft:tour_rail_slow, Slow Tour Vehicle Track
+jurassicraft:paleo_bale_fern, Fern Prehistoric Plant Bale
+jurassicraft:heliconia, Heliconia
+jurassicraft:skeleton_assembly, Skeleton Assembly Table
+jurassicraft:syringe:3, Brachiosaurus Syringe
+jurassicraft:syringe:1, Coelacanth Syringe
+jurassicraft:syringe:7, Dilophosaurus Syringe
+jurassicraft:syringe:9, Gallimimus Syringe
+jurassicraft:syringe:2, Microraptor Syringe
+jurassicraft:syringe:4, Mussaurus Syringe
+jurassicraft:syringe:13, Parasaurolophus Syringe
+jurassicraft:syringe:19, Triceratops Syringe
+jurassicraft:syringe:20, Tyrannosaurus Syringe
+jurassicraft:syringe:0, Velociraptor Syringe
+jurassicraft:ingen_journal:0, InGen Journal
+jurassicraft:ingen_journal:1, InGen Journal
+jurassicraft:ingen_journal:2, InGen Journal
+jurassicraft:ingen_journal:3, InGen Journal
+jurassicraft:ingen_journal:4, InGen Journal
+jurassicraft:ingen_journal:5, InGen Journal
+jurassicraft:ingen_journal:6, InGen Journal
+jurassicraft:ingen_journal:7, InGen Journal
+jurassicraft:ingen_journal:8, InGen Journal
+jurassicraft:nest_fossil:0, Fossilized Nest
+jurassicraft:nest_fossil:1, Fossilized Nest
+jurassicraft:nest_fossil:2, Fossilized Nest
+jurassicraft:display_block_item:12, Brachiosaurus Action Figure
+jurassicraft:display_block_item:15, Brachiosaurus Fossilized Skeleton
+jurassicraft:display_block_item:13, Brachiosaurus Fresh Skeleton
+jurassicraft:display_block_item:4, Coelacanth Action Figure
+jurassicraft:display_block_item:7, Coelacanth Fossilized Skeleton
+jurassicraft:display_block_item:5, Coelacanth Fresh Skeleton
+jurassicraft:display_block_item:28, Dilophosaurus Action Figure
+jurassicraft:display_block_item:31, Dilophosaurus Fossilized Skeleton
+jurassicraft:display_block_item:29, Dilophosaurus Fresh Skeleton
+jurassicraft:display_block_item:36, Gallimimus Action Figure
+jurassicraft:display_block_item:39, Gallimimus Fossilized Skeleton
+jurassicraft:display_block_item:37, Gallimimus Fresh Skeleton
+jurassicraft:display_block_item:8, Microraptor Action Figure
+jurassicraft:display_block_item:11, Microraptor Fossilized Skeleton
+jurassicraft:display_block_item:9, Microraptor Fresh Skeleton
+jurassicraft:display_block_item:16, Mussaurus Action Figure
+jurassicraft:display_block_item:19, Mussaurus Fossilized Skeleton
+jurassicraft:display_block_item:17, Mussaurus Fresh Skeleton
+jurassicraft:display_block_item:52, Parasaurolophus Action Figure
+jurassicraft:display_block_item:55, Parasaurolophus Fossilized Skeleton
+jurassicraft:display_block_item:53, Parasaurolophus Fresh Skeleton
+jurassicraft:display_block_item:76, Triceratops Action Figure
+jurassicraft:display_block_item:79, Triceratops Fossilized Skeleton
+jurassicraft:display_block_item:77, Triceratops Fresh Skeleton
+jurassicraft:display_block_item:80, Tyrannosaurus Action Figure
+jurassicraft:display_block_item:83, Tyrannosaurus Fossilized Skeleton
+jurassicraft:display_block_item:81, Tyrannosaurus Fresh Skeleton
+jurassicraft:display_block_item:0, Velociraptor Action Figure
+jurassicraft:display_block_item:3, Velociraptor Fossilized Skeleton
+jurassicraft:display_block_item:1, Velociraptor Fresh Skeleton
+jurassicraft:psaronius_fence, Psaronius Fence
+jurassicraft:krill_swarm, tile.krill_swarm.name
+jurassicraft:cockroaches, Cockroaches
+jurassicraft:phoenix_planks, Phoenix Planks
+jurassicraft:empty_syringe, Empty Syringe
+jurassicraft:psaronius_fence_gate, Psaronius Fence Gate
+jurassicraft:mealworm_beetles, Mealworm Beetles
+jurassicraft:second_dorsal_fin_fresh:1, Fresh Coelacanth Second Dorsal Fin
+jurassicraft:phoenix_slab:0, Phoenix Slab
+jurassicraft:araucaria_leaves, Araucaria Leaves
+jurassicraft:small_cycad, Cycad
+jurassicraft:encased_fossil_0:0, Encased Velociraptor Fossil
+jurassicraft:encased_fossil_0:1, Encased Coelacanth Fossil
+jurassicraft:encased_fossil_0:2, Encased Microraptor Fossil
+jurassicraft:encased_fossil_0:3, Encased Brachiosaurus Fossil
+jurassicraft:encased_fossil_0:4, Encased Mussaurus Fossil
+jurassicraft:encased_fossil_0:7, Encased Dilophosaurus Fossil
+jurassicraft:encased_fossil_0:9, Encased Gallimimus Fossil
+jurassicraft:encased_fossil_0:13, Encased Parasaurolophus Fossil
+jurassicraft:paleo_bale_other, Prehistoric Plant Bale
+jurassicraft:tail_vertebrae_fresh:3, Fresh Brachiosaurus Tail Vertebrae
+jurassicraft:tail_vertebrae_fresh:7, Fresh Dilophosaurus Tail Vertebrae
+jurassicraft:tail_vertebrae_fresh:9, Fresh Gallimimus Tail Vertebrae
+jurassicraft:tail_vertebrae_fresh:2, Fresh Microraptor Tail Vertebrae
+jurassicraft:tail_vertebrae_fresh:4, Fresh Mussaurus Tail Vertebrae
+jurassicraft:tail_vertebrae_fresh:13, Fresh Parasaurolophus Tail Vertebrae
+jurassicraft:tail_vertebrae_fresh:19, Fresh Triceratops Tail Vertebrae
+jurassicraft:tail_vertebrae_fresh:20, Fresh Tyrannosaurus Tail Vertebrae
+jurassicraft:tail_vertebrae_fresh:0, Fresh Velociraptor Tail Vertebrae
+jurassicraft:disc_reader, Disc Drive
+jurassicraft:aulopora, tile.aulopora.name
+jurassicraft:claw:0, Velociraptor Claw
+jurassicraft:foot_bones:9, Gallimimus Foot Bones
+jurassicraft:foot_bones:2, Microraptor Foot Bones
+jurassicraft:foot_bones:20, Tyrannosaurus Foot Bones
+jurassicraft:foot_bones:0, Velociraptor Foot Bones
+jurassicraft:ribcage:3, Brachiosaurus Ribcage
+jurassicraft:ribcage:7, Dilophosaurus Ribcage
+jurassicraft:ribcage:9, Gallimimus Ribcage
+jurassicraft:ribcage:2, Microraptor Ribcage
+jurassicraft:ribcage:4, Mussaurus Ribcage
+jurassicraft:ribcage:13, Parasaurolophus Ribcage
+jurassicraft:ribcage:19, Triceratops Ribcage
+jurassicraft:ribcage:20, Tyrannosaurus Ribcage
+jurassicraft:ribcage:0, Velociraptor Ribcage
+jurassicraft:front_leg_bones_fresh:3, Fresh Brachiosaurus Front Leg Bones
+jurassicraft:front_leg_bones_fresh:13, Fresh Parasaurolophus Front Leg Bones
+jurassicraft:front_leg_bones_fresh:19, Fresh Triceratops Front Leg Bones
+jurassicraft:bristle_fern, Bristle Fern
+jurassicraft:paleo_bale_cycadeoidea, Bennettitalean Prehistoric Plant Bale
+jurassicraft:enallhelia_coral, Enallhelia
+jurassicraft:pelvic_fin_bones_fresh:1, Fresh Coelacanth Pelvic Fin Bones
+jurassicraft:amber_keychain, Amber Keychain
+jurassicraft:gypsum_bricks, Gypsum Bricks
+jurassicraft:dna_analyzer, DNA Analyzer
+jurassicraft:stamp_set, Stamp Set
+jurassicraft:leg_bones_fresh:7, Fresh Dilophosaurus Leg Bones
+jurassicraft:leg_bones_fresh:9, Fresh Gallimimus Leg Bones
+jurassicraft:leg_bones_fresh:2, Fresh Microraptor Leg Bones
+jurassicraft:leg_bones_fresh:4, Fresh Mussaurus Leg Bones
+jurassicraft:leg_bones_fresh:20, Fresh Tyrannosaurus Leg Bones
+jurassicraft:leg_bones_fresh:0, Fresh Velociraptor Leg Bones
+jurassicraft:psaronius_door_item, Psaronius Door
+jurassicraft:paleo_bale_leaves, Leaves Prehistoric Plant Bale
+jurassicraft:disc_dont_move_a_muscle, JurassiCraft Record
+jurassicraft:ginkgo_double_slab:0, Ginkgo Slab
+jurassicraft:dictyophyllum, Dictyophyllum
+jurassicraft:stylophyllopsis_coral, Stylophyllopsis
+jurassicraft:gypsum_cobblestone, Gypsum Cobblestone
+jurassicraft:anal_fin:1, Coelacanth Anal Fin
+jurassicraft:cultivate_bottom:0, White Cultivator
+jurassicraft:cultivate_bottom:1, Orange Cultivator
+jurassicraft:cultivate_bottom:2, Magenta Cultivator
+jurassicraft:cultivate_bottom:3, Light Blue Cultivator
+jurassicraft:cultivate_bottom:4, Yellow Cultivator
+jurassicraft:cultivate_bottom:5, Lime Cultivator
+jurassicraft:cultivate_bottom:6, Pink Cultivator
+jurassicraft:cultivate_bottom:7, Gray Cultivator
+jurassicraft:cultivate_bottom:8, Light Gray Cultivator
+jurassicraft:cultivate_bottom:9, Cyan Cultivator
+jurassicraft:cultivate_bottom:10, Purple Cultivator
+jurassicraft:cultivate_bottom:11, Blue Cultivator
+jurassicraft:cultivate_bottom:12, Brown Cultivator
+jurassicraft:cultivate_bottom:13, Green Cultivator
+jurassicraft:cultivate_bottom:14, Red Cultivator
+jurassicraft:cultivate_bottom:15, Black Cultivator
+jurassicraft:fossilized_trackway:0, Fossilized Biped Trackway
+jurassicraft:fossilized_trackway:1, Fossilized Small Biped Trackway
+jurassicraft:fossilized_trackway:2, Fossilized Raptor Trackway
+jurassicraft:pelvis:3, Brachiosaurus Pelvis
+jurassicraft:pelvis:7, Dilophosaurus Pelvis
+jurassicraft:pelvis:9, Gallimimus Pelvis
+jurassicraft:pelvis:2, Microraptor Pelvis
+jurassicraft:pelvis:4, Mussaurus Pelvis
+jurassicraft:pelvis:13, Parasaurolophus Pelvis
+jurassicraft:pelvis:19, Triceratops Pelvis
+jurassicraft:pelvis:20, Tyrannosaurus Pelvis
+jurassicraft:araucaria_door, Araucaria Door
+jurassicraft:amber:0, Mosquito in Amber
+jurassicraft:amber:1, Aphid in Amber
+jurassicraft:display_block, tile.display_block.name
+jurassicraft:plaster_and_bandage, Plaster and Bandage
+jurassicraft:west_indian_lilac_berries:0, West Indian Lilac Berries
+jurassicraft:enallhelia, tile.enallhelia.name
+jurassicraft:ladinia_simplex, Ladinia Simplex
+jurassicraft:vehicle_item:0, Ford Explorer
+jurassicraft:vehicle_item:1, Jeep Wrangler
+jurassicraft:vehicle_item:2, Helicopter
+jurassicraft:cry_pansy, Cry Pansy
+jurassicraft:fun_fries, Fun Fries
+jurassicraft:petri_dish, Petri Dish
+jurassicraft:dna_combinator_hybridizer, DNA Combinator-Hybridizer
+jurassicraft:pectoral_fin_bones:1, Coelacanth Pectoral Fin Bones
+jurassicraft:ginkgo_sapling, Ginkgo Sapling
+jurassicraft:embryonic_machine, Embryonic Machine
+jurassicraft:dna_base_material, DNA Nucleotides
+jurassicraft:woolly_stalked_begonia, Woolly-stalked Begonia
+jurassicraft:phoenix_fence_gate, Phoenix Fence Gate
+jurassicraft:psaronius_log, Psaronius Log
+jurassicraft:spine_fresh:1, Fresh Coelacanth Spine
+jurassicraft:soft_tissue:3, Brachiosaurus Soft Tissue
+jurassicraft:soft_tissue:1, Coelacanth Soft Tissue
+jurassicraft:soft_tissue:7, Dilophosaurus Soft Tissue
+jurassicraft:soft_tissue:9, Gallimimus Soft Tissue
+jurassicraft:soft_tissue:2, Microraptor Soft Tissue
+jurassicraft:soft_tissue:4, Mussaurus Soft Tissue
+jurassicraft:soft_tissue:13, Parasaurolophus Soft Tissue
+jurassicraft:soft_tissue:19, Triceratops Soft Tissue
+jurassicraft:soft_tissue:20, Tyrannosaurus Soft Tissue
+jurassicraft:soft_tissue:0, Velociraptor Soft Tissue
+jurassicraft:ginkgo_door_item, Ginkgo Door
+jurassicraft:raphaelia, Raphaelia
+jurassicraft:ginkgo_planks, Ginkgo Planks
+jurassicraft:calamites_log_petrified, Petrified Calamites Log
+jurassicraft:wild_onion_plant, Wild Onion Plant
+jurassicraft:gracilaria_coral, Gracilaria
+jurassicraft:advanced_circuit, Advanced Circuit
+jurassicraft:claw_fresh:0, Fresh Velociraptor Claw
+jurassicraft:psaronius_stairs, Psaronius Stairs
+jurassicraft:small_royal_fern, Royal Fern
+jurassicraft:hippurites_radiosus, tile.hippurites_radiosus.name
+jurassicraft:tour_rail_fast, Fast Tour Vehicle Track
+jurassicraft:car_chassis, Car Chassis
+jurassicraft:pectoral_fin_bones_fresh:1, Fresh Coelacanth Pectoral Fin Bones
+jurassicraft:ginkgo_stairs, Ginkgo Stairs
+jurassicraft:small_chain_fern, Chain Fern
+jurassicraft:rhamnus_salicifolius, Rhamnus Salicifolius
+jurassicraft:dart_poison_executioner_concoction, Lethal Dart
+jurassicraft:phoenix_leaves, Phoenix Leaves
+jurassicraft:phoenix_door, Phoenix Door
+jurassicraft:pregnancy_test, Pregnancy Test
+jurassicraft:dna:3, Brachiosaurus DNA
+jurassicraft:dna:1, Coelacanth DNA
+jurassicraft:dna:7, Dilophosaurus DNA
+jurassicraft:dna:9, Gallimimus DNA
+jurassicraft:dna:2, Microraptor DNA
+jurassicraft:dna:4, Mussaurus DNA
+jurassicraft:dna:13, Parasaurolophus DNA
+jurassicraft:dna:19, Triceratops DNA
+jurassicraft:dna:20, Tyrannosaurus DNA
+jurassicraft:dna:0, Velociraptor DNA
+jurassicraft:calamites_leaves, Calamites Leaves
+jurassicraft:phoenix_log_petrified, Petrified Phoenix Log
+jurassicraft:dino_spawn_egg:3, Spawn Brachiosaurus
+jurassicraft:dino_spawn_egg:1, Spawn Coelacanth
+jurassicraft:dino_spawn_egg:7, Spawn Dilophosaurus
+jurassicraft:dino_spawn_egg:9, Spawn Gallimimus
+jurassicraft:dino_spawn_egg:2, Spawn Microraptor
+jurassicraft:dino_spawn_egg:4, Spawn Mussaurus
+jurassicraft:dino_spawn_egg:13, Spawn Parasaurolophus
+jurassicraft:dino_spawn_egg:19, Spawn Triceratops
+jurassicraft:dino_spawn_egg:20, Spawn Tyrannosaurus
+jurassicraft:dino_spawn_egg:0, Spawn Velociraptor
+jurassicraft:fossil_block_1:3, Triceratops Fossil
+jurassicraft:fossil_block_1:4, Tyrannosaurus Fossil
+jurassicraft:umaltolepis, Umaltolepis
+jurassicraft:embryo_calcification_machine, Embryo Calcification Machine
+jurassicraft:shoulder_bone_fresh:13, Fresh Parasaurolophus Shoulder Bones
+jurassicraft:shoulder_bone_fresh:19, Fresh Triceratops Shoulder Bones
+jurassicraft:shoulder_bone_fresh:20, Fresh Tyrannosaurus Shoulder Bones
+jurassicraft:shoulder_bone_fresh:0, Fresh Velociraptor Shoulder Bones
+jurassicraft:psaronius_door, Psaronius Door
+jurassicraft:tooth:3, Brachiosaurus Tooth
+jurassicraft:tooth:7, Dilophosaurus Tooth
+jurassicraft:tooth:2, Microraptor Tooth
+jurassicraft:tooth:19, Triceratops Tooth
+jurassicraft:tooth:20, Tyrannosaurus Tooth
+jurassicraft:tooth:0, Velociraptor Tooth
+jurassicraft:peat, Peat
+jurassicraft:teeth:1, Coelacanth Teeth
+jurassicraft:teeth:4, Mussaurus Teeth
+jurassicraft:teeth:13, Parasaurolophus Teeth
+jurassicraft:second_dorsal_fin:1, Coelacanth Second Dorsal Fin
+jurassicraft:gypsum_powder, Gypsum Powder
+jurassicraft:front_leg_bones:3, Brachiosaurus Front Leg Bones
+jurassicraft:front_leg_bones:13, Parasaurolophus Front Leg Bones
+jurassicraft:front_leg_bones:19, Triceratops Front Leg Bones
 actuallyadditions:block_canola_oil, Canola Oil
 actuallyadditions:block_refined_canola_oil, Refined Canola Oil
 actuallyadditions:block_crystal_oil, Crystallized Oil
@@ -20651,6 +20116,12 @@ buildcraftfactory:heat_exchange, Heat Exchanger
 buildcraftfactory:water_gel_spawn, Water Gelifier
 buildcraftfactory:gel, Gelled Water
 buildcraftrobotics:zone_planner, Zone Planner
+carpentersblocks:carpenters_block, Carpenter's Block
+carpentersblocks:carpenters_collapsible_block, Carpenter's Collapsible Block
+carpentersblocks:carpenters_pressure_plate, Carpenter's Pressure Plate
+carpentersblocks:carpenters_slope, tile.blockCarpentersSlope.name
+carpentersblocks:carpenters_hammer, Carpenter's Hammer
+carpentersblocks:carpenters_chisel, Carpenter's Chisel
 chiselsandbits:chisel_stone, Stone Chisel
 chiselsandbits:chisel_iron, Iron Chisel
 chiselsandbits:chisel_gold, Golden Chisel
@@ -23427,28 +22898,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Orange Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Orange Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Amber Bearing Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Cinnabar Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Quartz Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Arcane Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Arcane Stone Brick
-chiselsandbits:block_bit:0, Chiseled Bit - Ancient Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Ancient Stone Tile
-chiselsandbits:block_bit:0, Chiseled Bit - Glyphed Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Eldritch Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Porous Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Greatwood Log East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Silverwood Log East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Greatwood Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Silverwood Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Flesh
-chiselsandbits:block_bit:0, Chiseled Bit - Brass Block
-chiselsandbits:block_bit:0, Chiseled Bit - Thaumium Block
-chiselsandbits:block_bit:0, Chiseled Bit - Void Metal Block
-chiselsandbits:block_bit:0, Chiseled Bit - Alchemical Construct
-chiselsandbits:block_bit:0, Chiseled Bit - Advanced Alchemical Construct
-chiselsandbits:block_bit:0, Chiseled Bit - Infusion Speed Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Infusion Cost Stone
 chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Charged Certus Quartz Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Block
@@ -23505,16 +22954,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Triangle Brownstone Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Small Brownstone Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Brownstone Tiles
 chiselsandbits:block_bit:0, Chiseled Bit - Kitchen Floor
-chiselsandbits:block_bit:0, Chiseled Bit - Pearl Block
-chiselsandbits:block_bit:0, Chiseled Bit - Pearl Brick
-chiselsandbits:block_bit:0, Chiseled Bit - Carved Pearl Block
-chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Pearl Block
-chiselsandbits:block_bit:0, Chiseled Bit - Wither Dust Block
-chiselsandbits:block_bit:0, Chiseled Bit - Wither Dust Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Carved Wither Dust Block
-chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Wither Dust Block
-chiselsandbits:block_bit:0, Chiseled Bit - Corrupted Wither Dust Block
-chiselsandbits:block_bit:0, Chiseled Bit - Checkered Wither Dust Block
 chiselsandbits:block_bit:0, Chiseled Bit - Yellorium Block
 chiselsandbits:block_bit:0, Chiseled Bit - Anglesite Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Blutonium Block
@@ -23741,41 +23180,17 @@ chiselsandbits:block_bit:0, Chiseled Bit - tile.extra_trim.name
 chiselsandbits:block_bit:0, Chiseled Bit - tile.extra_trim.name
 chiselsandbits:block_bit:0, Chiseled Bit - tile.extra_trim.name
 chiselsandbits:block_bit:0, Chiseled Bit - tile.extra_trim.name
-chiselsandbits:block_bit:0, Chiseled Bit - Psaronius Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Phoenix Log East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Psaronius Log East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Biped Trackway North
-chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Small Biped Trackway North
-chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Raptor Trackway North
-chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Araucaria Log East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Calamites Log East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Bennettitalean Prehistoric Plant Bale Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Plant Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Encased Triceratops Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Encased Tyrannosaurus Fossil
 chiselsandbits:block_bit:0, Chiseled Bit - Petrified Araucaria Log East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Leaves Prehistoric Plant Bale Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Cycad Prehistoric Plant Bale Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Fern Prehistoric Plant Bale Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Amber Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Triceratops Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Tyrannosaurus Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Petrified Psaronius Log East/West
 chiselsandbits:block_bit:0, Chiseled Bit - Peat Moss
+chiselsandbits:block_bit:0, Chiseled Bit - Araucaria Log East/West
+chiselsandbits:block_bit:0, Chiseled Bit - Amber Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Cycad Prehistoric Plant Bale Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Phoenix Log East/West
 chiselsandbits:block_bit:0, Chiseled Bit - Encased Fossilized Nest
 chiselsandbits:block_bit:0, Chiseled Bit - Encased Fossilized Nest
 chiselsandbits:block_bit:0, Chiseled Bit - Encased Fossilized Nest
-chiselsandbits:block_bit:0, Chiseled Bit - Gypsum Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Encased Velociraptor Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Encased Coelacanth Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Encased Microraptor Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Encased Brachiosaurus Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Encased Mussaurus Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Encased Dilophosaurus Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Encased Gallimimus Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Encased Parasaurolophus Fossil
-chiselsandbits:block_bit:0, Chiseled Bit - Calamites Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Ice Shard Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Velociraptor Fossil
 chiselsandbits:block_bit:0, Chiseled Bit - Coelacanth Fossil
 chiselsandbits:block_bit:0, Chiseled Bit - Microraptor Fossil
@@ -23784,21 +23199,45 @@ chiselsandbits:block_bit:0, Chiseled Bit - Mussaurus Fossil
 chiselsandbits:block_bit:0, Chiseled Bit - Dilophosaurus Fossil
 chiselsandbits:block_bit:0, Chiseled Bit - Gallimimus Fossil
 chiselsandbits:block_bit:0, Chiseled Bit - Parasaurolophus Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Encased Triceratops Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Encased Tyrannosaurus Fossil
 chiselsandbits:block_bit:0, Chiseled Bit - Ginkgo Log East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Gypsum Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Phoenix Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Ice Shard Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Petrified Phoenix Log East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Ginkgo Planks
 chiselsandbits:block_bit:0, Chiseled Bit - Gypsum Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Prehistoric Plant Bale Up/Down
-chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Nest
-chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Nest
-chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Nest
-chiselsandbits:block_bit:0, Chiseled Bit - Petrified Calamites Log East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Petrified Ginkgo Log East/West
 chiselsandbits:block_bit:0, Chiseled Bit - Araucaria Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Psaronius Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Petrified Psaronius Log East/West
+chiselsandbits:block_bit:0, Chiseled Bit - Calamites Log East/West
+chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Plant Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Calamites Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Fern Prehistoric Plant Bale Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Nest
+chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Nest
+chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Nest
+chiselsandbits:block_bit:0, Chiseled Bit - Phoenix Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Encased Velociraptor Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Encased Coelacanth Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Encased Microraptor Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Encased Brachiosaurus Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Encased Mussaurus Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Encased Dilophosaurus Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Encased Gallimimus Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Encased Parasaurolophus Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Prehistoric Plant Bale Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Bennettitalean Prehistoric Plant Bale Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Gypsum Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Leaves Prehistoric Plant Bale Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Gypsum Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Biped Trackway North
+chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Small Biped Trackway North
+chiselsandbits:block_bit:0, Chiseled Bit - Fossilized Raptor Trackway North
+chiselsandbits:block_bit:0, Chiseled Bit - Psaronius Log East/West
+chiselsandbits:block_bit:0, Chiseled Bit - Ginkgo Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Petrified Calamites Log East/West
+chiselsandbits:block_bit:0, Chiseled Bit - Petrified Phoenix Log East/West
+chiselsandbits:block_bit:0, Chiseled Bit - Triceratops Fossil
+chiselsandbits:block_bit:0, Chiseled Bit - Tyrannosaurus Fossil
 chiselsandbits:block_bit:0, Chiseled Bit - Restonia Crystal Block
 chiselsandbits:block_bit:0, Chiseled Bit - Palis Crystal Block
 chiselsandbits:block_bit:0, Chiseled Bit - Diamatine Crystal Block
@@ -23989,10 +23428,10 @@ chiselsandbits:block_bit:0, Chiseled Bit - Gypsum Block
 chiselsandbits:block_bit:0, Chiseled Bit - Encased fossil
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Sulfur
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Saltpeter
-chiselsandbits:block_bit:0, Chiseled Bit - Quarry Fixer
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
-chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
+chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
+chiselsandbits:block_bit:0, Chiseled Bit - Quarry Fixer
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
@@ -24168,13 +23607,12 @@ chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Alumite
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Titanium
-chiselsandbits:block_bit:0, Chiseled Bit - Molten Thaumium
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit - tile.sulfurousacid.name
 chiselsandbits:block_bit:0, Chiseled Bit - Rocket Fuel
 chiselsandbits:block_bit:0, Chiseled Bit - Enriched Lava Block
-chiselsandbits:block_bit:0, Chiseled Bit
-chiselsandbits:block_bit:0, Chiseled Bit
-chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
@@ -24832,8 +24270,6 @@ gemmary:auto_atom_gatherer, Atom Gatherer
 gemmary:atom_gatherer, Atom Gatherer
 gemmary:hydrothermal_vein, Hydrothermal Vein
 ichunutil:compact_porkchop, Compact Raw Porkchop
-gravitygun:gravitygun:0, Gravity Gun
-gravitygun:gravitygun:1, Supercharged Gravity Gun
 industrialforegoing:petrified_fuel_generator, Petrified Fuel Generator
 industrialforegoing:enchantment_refiner, Enchantment Sorter
 industrialforegoing:enchantment_extractor, Enchantment Extractor
@@ -25165,6 +24601,8 @@ harvestcraft:taroitem, Taro
 harvestcraft:taroseeditem, Taro Seed
 harvestcraft:tomatilloitem, Tomatillo
 harvestcraft:tomatilloseeditem, Tomatillo Seed
+harvestcraft:juniperberryitem, Juniperberry
+harvestcraft:juniperberryseeditem, Juniperberry Seed
 harvestcraft:date_sapling, Date Sapling
 harvestcraft:dateitem, Date
 harvestcraft:pamdate, Date
@@ -26422,25 +25860,22 @@ magneticraft:steel_gear, item.magneticraft.steel_gear.name
 magneticraft:tungsten_gear, item.magneticraft.tungsten_gear.name
 magneticraft:inserter_upgrade:0, Inserter Upgrade: Speed
 magneticraft:inserter_upgrade:1, Inserter Upgrade: Stack
-magneticraft:connector:0, Electric Connector
-magneticraft:electric_pole:0, Electric Pole
-magneticraft:electric_cable:0, Electric cable
-magneticraft:tesla_tower:0, Tesla Tower
-magneticraft:electric_pole_transformer:0, Electric Pole Transformer
-magneticraft:small_tank:0, Small tank
-magneticraft:iron_pipe:0, Iron Pipe
-magneticraft:ores:0, Chalcopyrite Ore (Copper)
-magneticraft:ores:1, Galena Ore (Lead)
-magneticraft:ores:2, Cobaltite Ore (Cobalt)
-magneticraft:ores:3, Wolframite Ore (Tungsten)
-magneticraft:ores:4, Pyrite Ore (Sulfur)
-magneticraft:oil_source:0, Oil Source (Full)
-magneticraft:oil_source:10, Oil Source (Empty)
-magneticraft:storage_blocks:0, Copper Block
-magneticraft:storage_blocks:1, Lead Block
-magneticraft:storage_blocks:2, Cobalt Block
-magneticraft:storage_blocks:3, Tungsten Block
-magneticraft:storage_blocks:4, Sulfur Block
+magneticraft:combustion_chamber:0, Combustion Chamber
+magneticraft:steam_boiler:0, Boiler
+magneticraft:heat_pipe:0, Heat Pipe
+magneticraft:insulated_heat_pipe:0, Insulated Heat Pipe
+magneticraft:heat_sink:0, Heat sink
+magneticraft:gasification_unit:0, Gasification Unit
+magneticraft:brick_furnace:0, Brick furnace
+magneticraft:conveyor_belt:0, Conveyor Belt
+magneticraft:inserter:0, Inserter
+magneticraft:water_generator:0, Water Generator
+magneticraft:feeding_trough:0, Wooden Feeding Trough
+magneticraft:pneumatic_tube:0, Pneumatic Tube
+magneticraft:pneumatic_restriction_tube:0, Restriction Pneumatic Tube
+magneticraft:relay:0, Relay
+magneticraft:filter:0, Filter
+magneticraft:transposer:0, Transposer
 magneticraft:solar_panel:0, Solar Panel
 magneticraft:shelving_unit:0, Shelving Unit
 magneticraft:steam_engine:0, Small Steam Engine
@@ -26473,15 +25908,31 @@ magneticraft:burnt_limestone:2, Burnt Limestone Cobble
 magneticraft:tile_limestone:0, Limestone Tiles
 magneticraft:tile_limestone:1, Inverted Limestone Tiles
 magneticraft:tube_light:0, Tube Light
-magneticraft:conveyor_belt:0, Conveyor Belt
-magneticraft:inserter:0, Inserter
-magneticraft:water_generator:0, Water Generator
-magneticraft:feeding_trough:0, Wooden Feeding Trough
-magneticraft:pneumatic_tube:0, Pneumatic Tube
-magneticraft:pneumatic_restriction_tube:0, Restriction Pneumatic Tube
-magneticraft:relay:0, Relay
-magneticraft:filter:0, Filter
-magneticraft:transposer:0, Transposer
+magneticraft:small_tank:0, Small tank
+magneticraft:iron_pipe:0, Iron Pipe
+magneticraft:box:0, Wooden Box
+magneticraft:crushing_table:0, Crushing Table
+magneticraft:sluice_box:0, Sluice Box
+magneticraft:fabricator:0, Fabricator
+magneticraft:computer:0, Computer
+magneticraft:mining_robot:0, Mining Robot
+magneticraft:connector:0, Electric Connector
+magneticraft:electric_pole:0, Electric Pole
+magneticraft:electric_cable:0, Electric cable
+magneticraft:tesla_tower:0, Tesla Tower
+magneticraft:electric_pole_transformer:0, Electric Pole Transformer
+magneticraft:ores:0, Chalcopyrite Ore (Copper)
+magneticraft:ores:1, Galena Ore (Lead)
+magneticraft:ores:2, Cobaltite Ore (Cobalt)
+magneticraft:ores:3, Wolframite Ore (Tungsten)
+magneticraft:ores:4, Pyrite Ore (Sulfur)
+magneticraft:oil_source:0, Oil Source (Full)
+magneticraft:oil_source:10, Oil Source (Empty)
+magneticraft:storage_blocks:0, Copper Block
+magneticraft:storage_blocks:1, Lead Block
+magneticraft:storage_blocks:2, Cobalt Block
+magneticraft:storage_blocks:3, Tungsten Block
+magneticraft:storage_blocks:4, Sulfur Block
 magneticraft:battery:0, Battery Block
 magneticraft:electric_furnace:0, Electric furnace
 magneticraft:infinite_energy:0, Infinite Energy
@@ -26492,19 +25943,6 @@ magneticraft:wind_turbine:0, Wind turbine
 magneticraft:electric_heater:0, Electric Heater
 magneticraft:rf_heater:0, RF Heater
 magneticraft:rf_transformer:0, RF transformer
-magneticraft:box:0, Wooden Box
-magneticraft:crushing_table:0, Crushing Table
-magneticraft:sluice_box:0, Sluice Box
-magneticraft:fabricator:0, Fabricator
-magneticraft:combustion_chamber:0, Combustion Chamber
-magneticraft:steam_boiler:0, Boiler
-magneticraft:heat_pipe:0, Heat Pipe
-magneticraft:insulated_heat_pipe:0, Insulated Heat Pipe
-magneticraft:heat_sink:0, Heat sink
-magneticraft:gasification_unit:0, Gasification Unit
-magneticraft:brick_furnace:0, Brick furnace
-magneticraft:computer:0, Computer
-magneticraft:mining_robot:0, Mining Robot
 plustic:centrifuge:0, Centrifuge Tank
 plustic:centrifuge:1, Centrifuge Core
 peaceful:rafflesia, Rafflesia
@@ -26532,18 +25970,9 @@ peaceful:crusher, Hydraulic Press
 peaceful:sulfurblock, Block of Sulfur
 peaceful:saltpeterblock, Block of Saltpeter
 peaceful:blankmusicdisc, Blank Music Disc
-portalgun:item_dust_ender_pearl, Ender Pearl Dust
-portalgun:item_miniature_black_hole, Miniature Black Hole
-portalgun:item_portalgun:0, Portal Gun
-portalgun:item_portalgun:0, Portal Gun
-portalgun:item_portalgun:0, Portal Gun
-portalgun:item_portalgun:0, Portal Gun
-portalgun:item_portalgun:0, Portal Gun
-portalgun:item_portalgun:0, Portal Gun
 refinedstorageaddons:wireless_crafting_grid:0, Wireless Crafting Grid
 refinedstorageaddons:wireless_crafting_grid:0, Wireless Crafting Grid
 refinedstorageaddons:wireless_crafting_grid:1, Creative Wireless Crafting Grid
-zettaindustries:quarryfixer, Quarry Fixer
 zettaindustries:sulfurousacid, tile.sulfurousacid.name
 zettaindustries:batterycomputerport, Battery Computer Port
 zettaindustries:batterycontroller, Battery Controller
@@ -26553,11 +25982,7 @@ zettaindustries:batterypowertap,  Battery Power Tap
 zettaindustries:batterywall, Battery Wall
 zettaindustries:blockgraphite, Block of Graphite
 zettaindustries:sulfurblock, Block of Sulfur
-zettaindustries:hook, Iron Hook
-zettaindustries:variableredstoneemitter, Variable Redstone Emitter
 zettaindustries:charcoalblock, Block of Charcoal
-zettaindustries:telecommunicationconnector, tile.zettaindustries.telecommunicationconnector.name
-zettaindustries:telecommunicationwire, Telecommunication Wire Coil
 zettaindustries:nfcprogrammer, NFC Programmer
 zettaindustries:nfcreader, NFC Reader
 zettaindustries:itemcardnfc, NFC Card
@@ -26566,6 +25991,11 @@ zettaindustries:smartcard, Smart Card [WIP]
 zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
 zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
 zettaindustries:rfmeterblock, FU Meter
+zettaindustries:hook, Iron Hook
+zettaindustries:variableredstoneemitter, Variable Redstone Emitter
+zettaindustries:quarryfixer, Quarry Fixer
+zettaindustries:telecommunicationconnector, tile.zettaindustries.telecommunicationconnector.name
+zettaindustries:telecommunicationwire, Telecommunication Wire Coil
 zettaindustries:logo, Zetta Industries
 jaopca:block_blockzinc, Block of %s
 jaopca:block_blockcertusquartz, Block of %s
@@ -26806,6 +26236,7 @@ jaopca:item_nuggetcoal, %s Nugget
 jaopca:item_nuggetlapis, %s Nugget
 jaopca:item_nuggetmalachite, %s Nugget
 jaopca:item_nuggetperidot, %s Nugget
+jaopca:item_nuggetquartz, %s Nugget
 jaopca:item_nuggetquartzblack, %s Nugget
 jaopca:item_nuggetruby, %s Nugget
 jaopca:item_nuggetsapphire, %s Nugget
@@ -27045,21 +26476,5 @@ jaopca:item_chunkthorium, %s Chunk
 jaopca:item_chunktitanium, %s Chunk
 jaopca:item_chunkuranium, %s Chunk
 jaopca:item_chunkyellorium, %s Chunk
-jaopca:item_clusteraluminium, Native %s Cluster
-jaopca:item_clusterardite, Native %s Cluster
-jaopca:item_clusterboron, Native %s Cluster
-jaopca:item_clustercobalt, Native %s Cluster
-jaopca:item_clusteriridium, Native %s Cluster
-jaopca:item_clusterlithium, Native %s Cluster
-jaopca:item_clustermagnesium, Native %s Cluster
-jaopca:item_clustermithril, Native %s Cluster
-jaopca:item_clusternickel, Native %s Cluster
-jaopca:item_clusterplatinum, Native %s Cluster
-jaopca:item_clusterthorium, Native %s Cluster
-jaopca:item_clustertitanium, Native %s Cluster
-jaopca:item_clustertungsten, Native %s Cluster
-jaopca:item_clusteruranium, Native %s Cluster
-jaopca:item_clusteryellorium, Native %s Cluster
-jaopca:item_clusterzinc, Native %s Cluster
 jaopca:fluid_moltenmithril, tile.jaopca.molten.name
 jaopca:fluid_moltentungsten, tile.jaopca.molten.name

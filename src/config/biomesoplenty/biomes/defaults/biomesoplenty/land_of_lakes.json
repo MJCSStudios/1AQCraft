@@ -1,6 +1,6 @@
 {
   "canGenerateRivers": true,
-  "beachBiomeLocation": "biomesoplenty:gravel_beach",
+  "beachBiomeLocation": "minecraft:beaches",
   "skyColor": -1,
   "fogDensity": 1.0,
   "hasBiomeEssence": true,

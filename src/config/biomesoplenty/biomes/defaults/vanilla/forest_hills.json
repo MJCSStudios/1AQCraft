@@ -1,5 +1,5 @@
 {
-  "beachBiomeLocation": "biomesoplenty:gravel_beach",
+  "beachBiomeLocation": "minecraft:beaches",
   "generators": {
     "glowshrooms": {
       "with": {

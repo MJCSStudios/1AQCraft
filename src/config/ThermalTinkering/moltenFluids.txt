@@ -4,6 +4,16 @@
 
 #ANY AND ALL CHANGES TO THIS FILE WILL BE REPLACED WHEN THIS FILE IS REGENERATED NEXT TIME THE GAME IS RUN. THIS IS FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A CONFIG FILE!
 
+electrical_steel                                  (enderio:block_fluid_electrical_steel)                                           = Molten Electrical Steel
+energetic_alloy                                   (enderio:block_fluid_energetic_alloy)                                            = Molten Energetic Alloy
+vibrant_alloy                                     (enderio:block_fluid_vibrant_alloy)                                              = Molten Vibrant Alloy
+redstone_alloy                                    (enderio:block_fluid_redstone_alloy)                                             = Molten Redstone Alloy
+conductive_iron                                   (enderio:block_fluid_conductive_iron)                                            = Molten Conductive Iron
+pulsating_iron                                    (enderio:block_fluid_pulsating_iron)                                             = Molten Pulsating Iron
+dark_steel                                        (enderio:block_fluid_dark_steel)                                                 = Molten Dark Steel
+soularium                                         (enderio:block_fluid_soularium)                                                  = Molten Soularium
+end_steel                                         (enderio:block_fluid_end_steel)                                                  = Molten End Steel
+construction_alloy                                (enderio:block_fluid_construction_alloy)                                         = Molten Iron Alloy
 obsidian                                          (tconstruct:molten_obsidian)                                                     = Molten Obsidian
 iron                                              (tconstruct:molten_iron)                                                         = Molten Iron
 pigiron                                           (tconstruct:molten_pigiron)                                                      = Molten Pigiron

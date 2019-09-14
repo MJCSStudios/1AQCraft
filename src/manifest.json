@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "1AQCraft",
-  "version": "5.0.12",
+  "version": "5.0.13",
   "author": "MJCS",
   "files": [
     {
@@ -602,7 +602,7 @@
     {
       "projectID": 229769,
       "fileID": 2707706,
-      "required": false
+      "required": true
     },
     {
       "projectID": 233140,

@@ -9,7 +9,7 @@
           "name": "netherfoundation:hellfish"
         },
         "material": "minecraft:netherrack",
-        "cluster-size": 12
+        "cluster-size": 6
       },
       "cluster-count": 8,
       "min-height": 0,

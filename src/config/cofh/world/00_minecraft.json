@@ -7,7 +7,7 @@
 			"generator": {
 				"block": "dirt",
 				"material": "minecraft:stone",
-				"cluster-size": 33
+				"cluster-size": 17
 			},
 			"cluster-count": 10,
 			"min-height": 0,
@@ -28,7 +28,7 @@
 			"generator": {
 				"block": "gravel",
 				"material": "minecraft:stone",
-				"cluster-size": 33
+				"cluster-size": 17
 			},
 			"cluster-count": 8,
 			"min-height": 0,
@@ -297,27 +297,13 @@
 				"cluster-size": 1
 			},
 			"cluster-count": {
-				"min": 3,
-				"max": 6
+				"min": 2,
+				"max": 3
 			},
 			"min-height": 4,
 			"max-height": 28,
 			"retrogen": false,
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"extreme_hills",
-							"smaller_extreme_hills",
-							"extreme_hills_with_trees",
-							"mutated_extreme_hills",
-							"mutated_extreme_hills_with_trees"
-						]
-					}
-				]
-			},
+			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [

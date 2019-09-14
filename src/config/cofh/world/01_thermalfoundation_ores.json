@@ -161,14 +161,14 @@
 						"properties": {
 							"type": "platinum"
 						},
-						"weight": 40
+						"weight": 20
 					},
 					{
 						"name": "thermalfoundation:ore",
 						"properties": {
 							"type": "nickel"
 						},
-						"weight": 60
+						"weight": 80
 					}
 				],
 				"material": "minecraft:stone",
